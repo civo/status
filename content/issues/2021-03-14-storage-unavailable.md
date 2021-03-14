@@ -6,7 +6,7 @@ resolvedWhen: 2019-10-05 16:58:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - Storage
+  - Storage/NYC1
 section: issue
 ---
 

@@ -139,20 +139,20 @@ params:
       category: Global
 
     - name: Ceph
-      category: Stevenage 1
+      category: OpenStack (Legacy)
     - name: Nova
-      category: Stevenage 1
+      category: OpenStack (Legacy)
     - name: Neutron
-      category: Stevenage 1
+      category: OpenStack (Legacy)
     - name: Cinder
-      category: Stevenage 1
+      category: OpenStack (Legacy)
 
-    - name: Storage
-      category: New York 1
-    - name: Compute
-      category: New York 1
-    - name: Network
-      category: New York 1
+    - name: Storage/NYC1
+      category: CivoStack
+    - name: Compute/NYC1
+      category: CivoStack
+    - name: Network/NYC1
+      category: CivoStack
 
   # What date format to use?
   #
