@@ -121,9 +121,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Stevenage 1
-    - name: New York 1
     - name: Global
+    - name: CivoStack
+    - name: OpenStack (Legacy)
 
   # These are your systems. Change them to
   # change the amount of components.
