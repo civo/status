@@ -4,7 +4,7 @@ date: 2021-03-14 13:14:00
 resolved: true
 resolvedWhen: 2021-03-14 23:00:00
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Storage/NYC1
 section: issue
