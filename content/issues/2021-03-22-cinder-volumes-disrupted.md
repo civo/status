@@ -1,7 +1,7 @@
 ---
 title: Cinder volume attaching disrupted
-date: 2021-03-22 10:50:00
-resolved: false
+date: 2021-03-22 14:34:00
+resolved: true
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
