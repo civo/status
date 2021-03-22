@@ -2,9 +2,9 @@
 title: Cluster launches unavailable
 date: 2021-03-22 10:45:00
 resolved: true
-resolvedWhen: 2021-03-22 11:30
+resolvedWhen: 2021-03-22 11:30:00
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Storage/NYC1
   - Compute/NYC1
