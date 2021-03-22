@@ -1,8 +1,8 @@
 ---
 title: Cluster launches unavailable
 date: 2021-03-14 10:45:00
-resolved: true
-resolvedWhen: 2021-03-14 23:00:00
+resolved: false
+resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
