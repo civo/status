@@ -7,6 +7,7 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Compute/NYC1
+  - Storage/NYC1
 section: issue
 ---
 
