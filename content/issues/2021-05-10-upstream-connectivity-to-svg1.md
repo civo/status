@@ -6,7 +6,7 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - Nova
+  - Network/SVG1
 section: issue
 ---
 
