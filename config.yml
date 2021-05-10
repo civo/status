@@ -146,6 +146,8 @@ params:
       category: OpenStack (Legacy)
     - name: Cinder
       category: OpenStack (Legacy)
+    - name: Network/SVG1
+      category: OpenStack (Legacy)
 
     - name: Storage/NYC1
       category: CivoStack
