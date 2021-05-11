@@ -2,7 +2,7 @@
 title: Issues with Civo API service
 date: 2021-05-11 12:00:00
 resolved: yes
-resolvedWhen: 2021-05-11 12:25 
+resolvedWhen: 2021-05-11 12:25:00
 # Possible severity levels: down, disrupted, notice
 severity:
 affected:
