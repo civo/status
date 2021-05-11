@@ -4,7 +4,7 @@ date: 2021-05-11 12:00:00
 resolved: yes
 resolvedWhen: 2021-05-11 12:25 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity:
 affected:
   - Civo API
 section: issue
