@@ -16,3 +16,10 @@ Currently CivoVolumes (the native PV/CSI driver) aren't working correctly in LON
 kubectl patch storageclass local-path -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"true"}}}'
 
 kubectl patch storageclass civo-volume -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"false"}}}'
+
+As this is a temporary fix until we resolve the issues, the default can be set back to civo-volume once this notice is cleared using the following commands:
+
+kubectl patch storageclass civo-volume -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"true"}}}'
+
+kubectl patch storageclass local-path -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"false"}}}'
+
