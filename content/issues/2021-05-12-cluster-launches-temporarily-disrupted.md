@@ -1,17 +1,13 @@
 ---
-title: Cluster launches temporarily disrupted
-date: 2021-05-12 12:17:00
-resolved: yes
-resolvedWhen: 2021-05-12 13:10:00 
+title: Civo Volumes not working in LON1
+date: 2021-05-08 11:41:00
+resolved: no
+resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
-  - Civo API
+  - LON1/Storage
 section: issue
 ---
 
-The issue affecting cluster launches in the Civo API has been fixed with the latest deployment. If you continue to experience issues launching clusters, please reach out to us via the "contact us" Intercom feature on your account.
-
----
-
-Users may see cluster launches fail momentarily. We have identified the issue in the API that is causing this error and are deploying an urgent fix.
+Currently CivoVolumes (the native PV/CSI driver) aren't working in LON1. We're hard at work on the issue, but it's turning out to be very tricky. We'll update as we know more. For the moment, if you just want to experiment with CivoVolumes, NYC1 is working fine.
