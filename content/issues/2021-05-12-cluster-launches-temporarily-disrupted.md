@@ -1,8 +1,8 @@
 ---
 title: Civo Volumes not working in LON1 and NYC1
 date: 2021-05-08 11:41:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2021-05-21 15:33:20
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
