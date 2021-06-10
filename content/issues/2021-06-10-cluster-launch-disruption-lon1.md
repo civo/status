@@ -6,7 +6,7 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - LON1/Compute
+  - Compute/LON1
 section: issue
 ---
 
