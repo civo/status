@@ -11,6 +11,11 @@ affected:
 section: issue
 ---
 
+LON1 super cluster is still partially degraded due to suspected underlying node storage CSI issues.
+We have now re-enabled traffic and are continuing a triage and restoration of impacted nodes/services.
+
+---
+
 We are currently applying a rolling fix to address the underlying issue affecting cluster launches. New clusters will not be able to be launched while this process completes.
 
 ---
