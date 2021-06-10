@@ -7,6 +7,7 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Compute/LON1
+  - Storage/LON1
 section: issue
 ---
 
