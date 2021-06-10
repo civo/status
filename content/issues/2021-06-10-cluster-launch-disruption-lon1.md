@@ -11,6 +11,10 @@ affected:
 section: issue
 ---
 
+We are continuing work on mitigating the disruption caused by underlying node storage issues. Currently, cluster launches are available as normal in the NYC1 region. While we work on the issue we cannot rule out the possibility of temporary disruption to existing nodes or instances.
+
+---
+
 LON1 super cluster is still partially degraded due to suspected underlying node storage CSI issues.
 We have now re-enabled traffic and are continuing a triage and restoration of impacted nodes/services.
 
