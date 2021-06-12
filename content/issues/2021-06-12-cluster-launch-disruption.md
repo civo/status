@@ -1,5 +1,5 @@
 ---
-title: Cluster launches disrupted
+title: Cluster launches disrupted intermittently
 date: 2021-06-12 10:57:00
 resolved: no
 resolvedWhen: 
@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Cluster launches may be disrupted due to an issue we are aware of and are investigating. We will update here when we know more.
+Cluster launches may be disrupted intermittently due to an issue we are aware of and are investigating. We will update here when we know more.
