@@ -6,7 +6,7 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - Compute/NYC1
+  - NYC1/Compute
 section: issue
 ---
 
