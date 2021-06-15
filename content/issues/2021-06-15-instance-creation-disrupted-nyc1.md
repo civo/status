@@ -1,12 +1,12 @@
 ---
 title: Instance creation disrupted in NYC1
 date: 2021-06-15 14:57:00
-resolved: no
+resolved: 
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - NYC1/Compute
+  - Compute/NYC1
 section: issue
 ---
 
