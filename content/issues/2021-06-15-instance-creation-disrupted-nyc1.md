@@ -10,4 +10,4 @@ affected:
 section: issue
 ---
 
-We are aware of an issue which is causing instances and Kubernetes nodes to not create in NYC1. We are investigating the issue and will update here as soon as we know more
+We are aware of an issue which is causing instances and Kubernetes nodes to not create successfully in NYC1. We are investigating the issue and will update here as soon as we know more
