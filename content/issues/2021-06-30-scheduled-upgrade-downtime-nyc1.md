@@ -1,8 +1,8 @@
 ---
 title: Planned Outage in NYC1 on 5 July 2021
 date: 2021-06-30 14:35:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2021-07-05 09:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
@@ -10,6 +10,8 @@ affected:
   - Compute/NYC1
   - Network/NYC1
 section: issue
+---
+The upgrade works have now been completed and service should be restored to all customer clusters and instances in NYC1. If you experience any issues connecting to your resources, or are unable to launch new clusters/instances, please contact us through the customer support feature in your civo.com account.
 ---
 On Monday the 5th of July at 6am GMT+1 (1am ET, 10pm PT July 4th), there will be a planned outage of Civo region NYC1. We anticipate an at-risk window of up to three hours of unavailability for this region. 
 
