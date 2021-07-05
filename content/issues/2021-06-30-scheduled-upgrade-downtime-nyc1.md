@@ -12,6 +12,7 @@ affected:
 section: issue
 ---
 The upgrade works have now been completed and service should be restored to all customer clusters and instances in NYC1. If you experience any issues connecting to your resources, or are unable to launch new clusters/instances, please contact us through the customer support feature in your civo.com account.
+
 ---
 On Monday the 5th of July at 6am GMT+1 (1am ET, 10pm PT July 4th), there will be a planned outage of Civo region NYC1. We anticipate an at-risk window of up to three hours of unavailability for this region. 
 
