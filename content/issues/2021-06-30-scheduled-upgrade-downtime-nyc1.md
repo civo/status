@@ -1,6 +1,6 @@
 ---
 title: Planned Outage in NYC1 on 5 July 2021
-date: 2021-06-30 14:35:00
+date: 2021-07-05 06:00:00
 resolved: yes
 resolvedWhen: 2021-07-05 09:00:05
 # Possible severity levels: down, disrupted, notice
