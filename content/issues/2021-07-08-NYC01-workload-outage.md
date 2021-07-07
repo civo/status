@@ -16,4 +16,4 @@ investigating and will provide updates as information is gathered. All workloads
 
 At 6:48 GMT, all workloads were restarted. 
 
-Ate 7:03 AM GMT, workloads startup began
+At 7:03 AM GMT, workloads startup began
