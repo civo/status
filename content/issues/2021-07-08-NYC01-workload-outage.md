@@ -4,7 +4,7 @@ date: 2021-07-07 06:08
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: Observing
 affected:
   - Storage/NYC1
   - Compute/NYC1
