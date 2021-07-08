@@ -2,7 +2,7 @@
 title: Unplanned Outage in NYC1
 date: 2021-07-08 12:36:00
 resolved: yes
-resolvedWhen: 2021-0708 17:12:00
+resolvedWhen: 2021-07-08 17:12:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
