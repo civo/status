@@ -10,6 +10,16 @@ affected:
   - Compute/NYC1
 section: issue
 ---
+16:13 GMT+1
+
+In order to restore connectivity we have had to disable the Civo API from the region. Users attempting to view their resources in NYC1 through their Civo account will encounter errors. If you have resources running in other regions these remain accessible.
+
+---
+15:40 GMT+1
+
+Our storage partner is working to restore access to the storage nodes.
+
+---
 14:12 GMT+1
 
 Restarted virtual machines are reverting to read-only storage status. We have our storage partner investigating why this is and will update as soon as we know more.
