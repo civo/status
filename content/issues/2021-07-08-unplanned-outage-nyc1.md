@@ -10,6 +10,7 @@ affected:
   - Compute/NYC1
 section: issue
 ---
+13:09 GMT+1
 Our team is working with our storage partner to identify the cause of the disruption. All existing instances and clusters continue to be affected, but we hope to have them restored back to running status very soon.
 
 ---
