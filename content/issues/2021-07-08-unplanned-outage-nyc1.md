@@ -10,6 +10,11 @@ affected:
   - Compute/NYC1
 section: issue
 ---
+14:12 GMT+1
+
+Restarted virtual machines are reverting to read-only storage statu. We have our storage partner investigating why this is and will update as soon as we know more.
+
+---
 14:02 GMT+1
 
 We are restarting workloads in NYC1.
