@@ -8,6 +8,7 @@ severity: disrupted
 affected:
   - Storage/NYC1
   - Compute/NYC1
+  - Civo API
 section: issue
 ---
 16:13 GMT+1
