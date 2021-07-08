@@ -10,5 +10,8 @@ affected:
   - Compute/NYC1
 section: issue
 ---
+Our team is working with our storage partner to identify the cause of the disruption. All existing instances and clusters continue to be affected, but we hope to have them restored back to running status very soon.
+
+---
 On Thursday 08 July at 12:34 GMT+1, an alert was generated that workload VMs (K3s and compute instance) were offline. The SRE team is currently
 investigating and will provide updates as information is gathered. All workloads in NYC1 are affected by this outage. 
