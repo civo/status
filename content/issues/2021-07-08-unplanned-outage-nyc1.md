@@ -1,8 +1,8 @@
 ---
 title: Unplanned Outage in NYC1
 date: 2021-07-08 12:36:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2021-0708 17:12:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -10,6 +10,11 @@ affected:
   - Compute/NYC1
   - Civo API
 section: issue
+---
+17:13 GMT+1
+
+NYC1 resources are back online and customers should be able to connect to their clusters and instances as normal. We will continue to monitor the stability of the service. If you continue to experience trouble accessing your resources and workloads, please reach out through our support channels.
+
 ---
 16:13 GMT+1
 
