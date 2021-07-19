@@ -7,7 +7,7 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Compute/NYC1
-  - NetworkNYC1
+  - Network/NYC1
 
 section: issue
 ---
