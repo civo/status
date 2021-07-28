@@ -5,7 +5,9 @@ resolved: no
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
+  - Storage/LON1
   - Compute/LON1
+  - Network/LON1
 section: issue
 ---
 06:00:00 GMT+1
