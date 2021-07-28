@@ -2,7 +2,7 @@
 title: Maintenance Window
 date: 2021-07-28 06:00:00
 resolved: true
-resolvedWhen: 2021-07028 09:10:00
+resolvedWhen: 2021-07-28 09:10:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
