@@ -9,6 +9,7 @@ affected:
   - Compute/LON1
   - Network/LON1
 section: issue
+
 ---
 06:00:00 GMT+1
 Storage OS upgrade going on in LON1 until 09:00:00 GMT+1 due to which the workloads will be affected, Launching VM's and clusters will also be disabled in LON1 during this time. 
