@@ -1,7 +1,8 @@
 ---
 title: Maintenance Window
-date: 2018-06-13 06:00:00 GMT+1
-resolved: no
+date: 2021-07-28 06:00:00
+resolved: yes
+resolvedWhen: 2021-07028 09:10:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
