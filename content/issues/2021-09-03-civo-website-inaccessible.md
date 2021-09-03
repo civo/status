@@ -4,12 +4,15 @@ date: 2021-09-03 14:00:00
 resolved: no
 resolvedWhen: no
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: disrupted
 affected:
   - Civo.com Website
   - Civo API
 
 section: issue
+
+---
+Civo.com and the API are responding to requests again. We are monitoring the situation and will update as soon as we can.
 
 ---
 
