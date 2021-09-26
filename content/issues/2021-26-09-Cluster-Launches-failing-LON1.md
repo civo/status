@@ -1,13 +1,19 @@
 ---
 title: Cluster launches disrupted in LON1
 date: 2021-09-26 11:10:00
-resolved: no
+resolved: yes
+resolvedWhen: 2021-09-26 11:37:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Compute/LON1
 
 section: issue
+
+---
+11:37 GMT+1
+
+Cluster launches are now working again. We apologise for any inconvenience caused.
 
 ---
 11:10 GMT+1
