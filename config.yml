@@ -162,6 +162,13 @@ params:
       category: CivoStack
     - name: Network/LON1
       category: CivoStack
+      
+    - name: Storage/FRA1
+      category: CivoStack
+    - name: Compute/FRA1
+      category: CivoStack
+    - name: Network/FRA1
+      category: CivoStack
 
   # What date format to use?
   #
