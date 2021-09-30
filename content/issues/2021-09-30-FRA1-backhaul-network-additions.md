@@ -21,3 +21,7 @@ This work is expected to be low-risk but short interruptions in connectivity may
 
 Work has now started.
 
+---
+23:24 GMT+2
+
+The BGP sessions are now up and routes have been exchanged. No customer traffic has been impacted. We are now monitoring the situation. If all is well, no further changes will be made and the next update will close the maintenance. 
