@@ -1,8 +1,8 @@
 ---
 title: Backhaul Network Maintenance Window FRA1 on 30 September 2021
 date: 2021-09-29 12:00:00
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2021-09-30 23:41:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
@@ -25,3 +25,8 @@ Work has now started.
 23:24 GMT+2
 
 The BGP sessions are now up and routes have been exchanged. No customer traffic has been impacted. We are now monitoring the situation. If all is well, no further changes will be made and the next update will close the maintenance. 
+
+---
+23:41 GMT+2
+
+The window has now closed, work is complete and all services continue to operate as normal. 
