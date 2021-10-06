@@ -1,14 +1,20 @@
 ---
 title: Disruptions in Kubernetes cluster and compute instance launches in LON1
 date: 2021-10-06 15:32:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2021-10-06 15:46:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
   - Compute/LON1
 
 section: issue
+
+---
+
+update 15:45 GMT+1
+
+Instances should now correctly build again in LON1. We apologise for the interruption in new launches.
 
 ---
 
