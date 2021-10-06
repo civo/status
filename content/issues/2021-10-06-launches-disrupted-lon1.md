@@ -4,7 +4,7 @@ date: 2021-10-06 15:32:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/LON1
 
