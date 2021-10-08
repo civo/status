@@ -7,6 +7,7 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Compute/FRA1
+  - Network/FRA1
   - Civo API
 
 section: issue
