@@ -4,7 +4,7 @@ date: 2021-10-08 10:59:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: disrupted
 affected:
   - Compute/FRA1
   - Network/FRA1
