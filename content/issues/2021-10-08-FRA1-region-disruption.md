@@ -13,6 +13,12 @@ section: issue
 
 ---
 
+11:13 GMT+1
+
+We believe we have identified the issue that is causing API timeouts and slow instance builds, and are working on mitigating it and restoring access.
+
+---
+
 10:59 GMT+1
 
 We are aware of an issue with FRA1 which is causing timeouts and access errors through the Civo API, CLI and website. It is also affecting instance/cluster builds in that region.
