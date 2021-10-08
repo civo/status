@@ -4,13 +4,21 @@ date: 2021-10-08 10:59:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/FRA1
   - Network/FRA1
   - Civo API
 
 section: issue
+
+---
+
+11:55 GMT+1
+
+API queries to FRA1 are responding again, and new cluster nodes/instances are building successfully. We believe our mitigation efforts have worked. The API may respond with a bit of a delay until the issue is fully resolved.
+
+We will continue to monitor to make sure the situation keeps improving. Thank you for your patience.
 
 ---
 
