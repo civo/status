@@ -1,16 +1,22 @@
 ---
 title: Disruptions in Kubernetes cluster and compute instance launches as well as API access in FRA1
 date: 2021-10-08 10:59:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2021-10-08 12:11:00 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/FRA1
   - Network/FRA1
   - Civo API
 
 section: issue
+
+---
+
+12:11 GMT+1
+
+We believe the issue has been isolated and fixed, and the affected systems are stable and reachable. Once again, we apologise for the issue. If you continue to experience any trouble, please don't hesitate to contact us through the support button on your account.
 
 ---
 
