@@ -13,6 +13,12 @@ section: issue
 
 ---
 
+17:08 GMT+1
+
+We have isolated the cause of the issue causing DNS resolution to civo.com and subdomains to fail. We are working on getting mitigation in place.
+
+---
+
 16:55 GMT+1
 
 Due to an issue with DNS that we are investigating, civo.com and pages under it may appear unreachable. We are working on getting this mitigated as soon as possible.
