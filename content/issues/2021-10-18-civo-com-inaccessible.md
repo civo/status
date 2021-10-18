@@ -4,12 +4,18 @@ date: 2021-10-18 16:55:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Civo.com Website
   - Civo API
 
 section: issue
+
+---
+
+17:38 GMT+1
+
+We have restored service to our nameserver which is permitting the resolution of .civo.com domains once again. We believe this should allow all users to access the site and API, but are continuing to monitor the situation and build resilience.
 
 ---
 
