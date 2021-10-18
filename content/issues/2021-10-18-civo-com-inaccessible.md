@@ -6,7 +6,7 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - Civo.com website
+  - Civo.com Website
   - Civo API
 
 section: issue
