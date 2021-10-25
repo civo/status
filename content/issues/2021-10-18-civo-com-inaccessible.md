@@ -1,8 +1,8 @@
 ---
 title: Disruptions in DNS preventing access to civo.com
 date: 2021-10-18 16:55:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2021-10-18 17:45:00 
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
