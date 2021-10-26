@@ -1,14 +1,20 @@
 ---
 title: Disruptions in FRA1 cluster IP provisioning
 date: 2021-10-26 13:45:00
-resolved: no
-resolvedWhen:  
+resolved: yes
+resolvedWhen: 2021-10-26 14:15:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Compute/FRA1
 
 section: issue
+
+---
+
+14:15 GMT+1
+
+The upgrade was completed successfully with no observed impact on customer resource provisioning.
 
 ---
 
