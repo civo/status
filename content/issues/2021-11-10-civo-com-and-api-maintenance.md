@@ -13,6 +13,6 @@ section: issue
 
 17:17 GMT
 
-We are putting live a new API service that should offer faster performance and better Terraform reliability, Civo.com and pages under it may appear unreachable. We are working on getting this completed as soon as possible.
+We are putting live a new API service that should offer faster performance and better Terraform reliability. Civo.com and pages under it may appear unreachable during this deployment. We are working on getting this completed as soon as possible.
 
 Existing customer workloads will continue to operate as normal.
