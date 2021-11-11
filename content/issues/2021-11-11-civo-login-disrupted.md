@@ -2,7 +2,7 @@
 title: Logging in to Civo.com disrupted
 date: 2021-11-11 11:30:00
 resolved: yes
-resolvedWhen: 2021-11-11 11:55
+resolvedWhen: 2021-11-11 11:55:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
