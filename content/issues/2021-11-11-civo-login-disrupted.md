@@ -1,14 +1,20 @@
 ---
 title: Logging in to Civo.com disrupted
 date: 2021-11-11 11:30:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2021-11-11 11:55
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Civo.com Website
   
 section: issue
+---
+
+11:55 GMT
+
+The login functionality has been restored and users should be able to access civo.com as normal again. We apologise for the inconvenience!
+
 ---
 
 11:37 GMT
