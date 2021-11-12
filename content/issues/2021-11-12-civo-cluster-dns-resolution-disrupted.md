@@ -1,16 +1,22 @@
 ---
 title: DNS resolution of new Civo clusters disrupted
 date: 2021-11-12 13:32:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2021-11-12 17:15:00
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: 
 affected:
   - Network/NYC1
   - Network/FRA1
   - Network/LON1
   
 section: issue
+
+---
+
+17:30 GMT
+
+New clusters we have tested successfully resolve with their assigned DNS name. Please let us know if you are still experiencing issues.
 
 ---
 
