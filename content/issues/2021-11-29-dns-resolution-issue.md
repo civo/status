@@ -12,6 +12,12 @@ affected:
 section: issue
 ---
 
+15:00 GMT
+
+We are implementing a fix to restore service to one of our name servers which should allow access as soon as the update propagates through the Domain Name System.
+
+---
+
 14:55 GMT
 
 We are aware of a DNS resolution issue affecting civo.com . Customer resources are running but access to the Civo website and any domain names within Civo's service are inaccessible at the moment.
