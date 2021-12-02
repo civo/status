@@ -10,6 +10,6 @@ affected:
 section: issue
 ---
 
-14:2- GMT
+14:20 GMT
 
 Our automated alerting has picked up an issue with our LON1 region. It's reporting that a lot of instances are currently unavailable (but still present in the region). We're investigating and will update as we know further.
