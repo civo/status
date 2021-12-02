@@ -19,4 +19,4 @@ Our engineers are working on a fix to the issue. To allow us to restore function
 
 14:20 GMT
 
-Our automated alerting picked up an issue with our LON1 region at 14:13 GMT. It's reporting that a lot of instances are currently unavailable (but still present in the region). We're investigating and will update as we know further.
+Our automated alerting picked up an issue with our LON1 region at 14:13 GMT. It's reporting that a lot of instances and Kubernetes nodes are currently unavailable (but still present in the region). We're investigating and will update as we know further.
