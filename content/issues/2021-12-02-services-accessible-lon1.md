@@ -7,6 +7,7 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Customer hosted services in our LON1 region
+  - Compute/LON1
 section: issue
 ---
 
