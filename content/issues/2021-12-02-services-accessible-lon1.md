@@ -11,6 +11,12 @@ affected:
 section: issue
 ---
 
+15:55 GMT
+
+Having identified the issue, we are beginning the work of bringing affected customer clusters/instances back online.
+
+---
+
 14:45 GMT
 
 Our engineers are working on a fix to the issue. To allow us to restore functionality of existing services in LON1 we have temporarily suspended any new launches and access to that region.
