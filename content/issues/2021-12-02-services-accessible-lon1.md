@@ -1,5 +1,5 @@
 ---
-title: Services inaccessible in NYC1
+title: Services inaccessible in LON1
 date: 2021-12-02 14:20:00
 resolved: no
 resolvedWhen:
