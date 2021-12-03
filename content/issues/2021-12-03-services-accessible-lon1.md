@@ -1,7 +1,7 @@
 ---
 title: Services inaccessible in LON1
 date: 2021-12-03 11:09:04
-resolved: noo
+resolved: no
 # resolvedWhen: 2021-12-02 21:00:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
