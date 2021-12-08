@@ -10,8 +10,10 @@ affected:
 section: issue
 
 ---
+
 04:00MGT
 NYC1 is now running fine again
+
 ---
 
 12:00GMT
