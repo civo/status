@@ -1,13 +1,17 @@
 ---
 title: Services inaccessible in NYC1
-date: 2021-12-08 12:00:00
-resolved: no
+date: 2021-12-08 12:00:00 04:00:00
+resolved: yes
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our NYC1 region
   - Compute/NYC1
 section: issue
+
+---
+04:00MGT
+NYC1 is now running fine again
 ---
 
 12:00GMT
