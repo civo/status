@@ -1,14 +1,19 @@
 ---
 title: Services inaccessible in LON1
 date: 2021-12-12 14:32:00
-resolved: no
-# resolvedWhen: 2021-12-08 09:15:00
+resolved: yes
+resolvedWhen: 2021-12-12 16:23:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our LON1 region
   - Compute/LON1
 section: issue
+
+---
+
+16:23GMT
+LON1 is now running fine again.
 
 ---
 
