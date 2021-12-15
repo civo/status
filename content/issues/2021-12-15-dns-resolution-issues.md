@@ -12,6 +12,12 @@ affected:
 section: issue
 ---
 
+16:17 GMT
+
+DNS resolution to Civo.com and the API works again. 
+
+---
+
 16:10 GMT
 
 We are aware of a DNS resolution issue affecting civo.com . Customer resources are running but access to the Civo website and any domain names within Civo's service are inaccessible at the moment.
