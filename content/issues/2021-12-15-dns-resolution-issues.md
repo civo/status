@@ -4,12 +4,18 @@ date: 2021-12-15 16:10:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Customer hosted domains
   - Civo.com Website
   - Civo API
 section: issue
+---
+
+16:21 GMT
+
+We believe all DNS resolution should now happen correctly again. We are continuing to monitor the situation before closing this notice.
+
 ---
 
 16:17 GMT
