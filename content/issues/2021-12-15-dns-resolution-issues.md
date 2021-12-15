@@ -1,8 +1,8 @@
 ---
 title: DNS issue affecting Civo.com and domains managed by Civo's domain functionality
 date: 2021-12-15 16:10:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2021-12-15 16:26:25
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
@@ -10,6 +10,12 @@ affected:
   - Civo.com Website
   - Civo API
 section: issue
+---
+
+16:26 GMT
+
+We believe all service is restored, and are closing this issue. Please don't hesitate to contact us if you continue to see anything amiss.
+
 ---
 
 16:21 GMT
