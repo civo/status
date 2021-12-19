@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+10:03GMT
+
+All affected compute hosts have been rebooted, just rolling through affected customer VMs restarting them. About 30 minutes until things are back to normal.
+
+---
+
 09:23GMT
 
 NYC1 is being hit by the same issue as recently. Some workloads remain running and we're cycling through the remaining ones to restore availability now.
