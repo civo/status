@@ -1,7 +1,8 @@
 ---
 title: Services inaccessible in LON1
 date: 2021-12-22 07:05:00
-resolved: no
+resolved: yes
+resolvedWhen: 2021-12-22 09:07:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -10,6 +11,7 @@ affected:
 section: issue
 
 ---
+
 07:05 GMT
 
 LON1 is being hit by the same issue as recently. Some workloads remain running and we're cycling through the remaining ones to restore availability now.
