@@ -2,7 +2,7 @@
 title: Services inaccessible in NYC1
 date: 2021-12-22 17:05:00
 resolved: yes
-resolvedWhen: 2021-12-22 09:07:00
+resolvedWhen: 2021-12-22 18:05:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -12,7 +12,7 @@ section: issue
 
 ---
 
-07:05 GMT
+17:05 GMT
 
 NYC1 is being hit by the same issue as recently. Some workloads remain running and we're cycling through the remaining ones to restore availability now.
 
