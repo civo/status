@@ -1,7 +1,8 @@
 ---
 title: Services inaccessible in NYC1
 date: 2021-12-23 10:02:00
-resolved: no
+resolved: yes
+resolvedWhen: 2021-12-23 11:00:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
