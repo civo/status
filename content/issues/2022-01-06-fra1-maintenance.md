@@ -1,5 +1,5 @@
 ---
-title: Maintenance window in FRA1
+title: Maintenance window in FRA1 on 6 January 2022
 date: 2022-01-06 22:00:00
 resolved: no
 resolvedWhen:
