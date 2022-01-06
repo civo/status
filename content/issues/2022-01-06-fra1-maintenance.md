@@ -1,13 +1,19 @@
 ---
 title: Maintenance window in FRA1 on 6 January 2022
 date: 2022-01-06 22:00:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-01-06 22:58:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
   - Network/FRA1
 section: issue
+---
+
+22:58 GMT
+
+We're ending the work early due to an unforeseen issue, and will notify again when we can reschedule it for. No customer workloads or networking were affected.
+
 ---
 
 22:00 GMT
