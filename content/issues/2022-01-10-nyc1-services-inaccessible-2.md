@@ -1,7 +1,7 @@
 ---
 title: Services inaccessible in NYC1
 date: 2022-01-07 16:28:00
-resolved: noe
+resolved: no
 # resolvedWhen: 2022-01-07 09:50:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
