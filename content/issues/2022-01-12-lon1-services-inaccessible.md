@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+11:25GMT
+
+We have restored the majority of stopped instances and are working on bringing the remaining ones back ASAP.
+
+---
+
 11:10GMT
 
 We are noticing stoppages across a subset of virtual machines running in the LON1 region. We are working to restore these now. The vast majority of all workloads remain unaffected.
