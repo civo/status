@@ -10,6 +10,12 @@ affected:
 section: issue
 ---
 
+22:06 GMT
+
+The testing work has begun.
+
+---
+
 Update: This controlled testing has now been rescheduled for 20 January 2022.
 
 We are going to conduct controlled testing of our DDoS protection in the FRA1 region on 20 January 2022 between 22:00 GMT/23:00 local and 00:00 GMT/01:00 local. While we do not expect the testing to create network inaccessibility or downtime, we will update here if we notice any issues.
