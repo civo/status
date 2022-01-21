@@ -1,13 +1,19 @@
 ---
 title: Maintenance window in FRA1 on 20 January 2022
 date: 2022-01-20 22:00:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-01-20 22:47:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
   - Network/FRA1
 section: issue
+---
+
+22:47 GMT
+
+The testing work has been completed successfully. Thank you for your patience.
+
 ---
 
 22:06 GMT
