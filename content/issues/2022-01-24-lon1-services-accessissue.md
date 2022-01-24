@@ -1,7 +1,7 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-01-24 11:20:00
-resolved: no
+resolved: true
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
@@ -9,6 +9,12 @@ affected:
   - Customer hosted services in our LON1 region
   - Compute/LON1
 section: issue
+
+---
+
+12:44GMT
+
+The final stopped VMs have been brought back to running state and are available again. We apologise for the inconvenience!
 
 ---
 
