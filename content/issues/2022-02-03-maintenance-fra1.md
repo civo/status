@@ -7,7 +7,6 @@ resolvedWhen:
 severity: notice
 affected:
   - Network/FRA1
-  - Compute/FRA1
 section: issue
 ---
 
