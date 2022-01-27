@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+15:08GMT
+
+All paused workloads have been restarted. They may take a few minutes to become fully operational.
+
+---
+
 14:10GMT
 
 We are noticing stoppages across a subset of virtual machines running in the NYC region. We are working to restore these now. The majority of NYC1 workloads remain unaffected (and other regions are unaffected).
