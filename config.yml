@@ -123,7 +123,6 @@ params:
   categories:
     - name: Global
     - name: CivoStack
-    - name: OpenStack (Legacy)
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -137,17 +136,6 @@ params:
       category: Global
     - name: Load Balancers
       category: Global
-
-    - name: Ceph
-      category: OpenStack (Legacy)
-    - name: Nova
-      category: OpenStack (Legacy)
-    - name: Neutron
-      category: OpenStack (Legacy)
-    - name: Cinder
-      category: OpenStack (Legacy)
-    - name: Network/SVG1
-      category: OpenStack (Legacy)
 
     - name: Storage/NYC1
       category: CivoStack
