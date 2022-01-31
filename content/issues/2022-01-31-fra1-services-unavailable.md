@@ -15,4 +15,4 @@ section: issue
 
 05:45 GMT
 
-We are noticing stoppages across a subset of virtual machines running in the FRA1 region again. We are working to restore these now. The majority of LON1 workloads remain unaffected (and other regions are unaffected).
+We are noticing stoppages across a subset of virtual machines running in the FRA1 region again. We are working to restore these now. The majority of FRA1 workloads remain unaffected (and other regions are unaffected).
