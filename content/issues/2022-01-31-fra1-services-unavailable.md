@@ -1,8 +1,8 @@
 ---
 title: Services inaccessible in FRA1
 date: 2022-01-31 05:45:00
-resolved: no
-# resolvedWhen: 2022-01-27 05:45:00
+resolved: true
+resolvedWhen: 2022-01-31 07:48:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -10,6 +10,11 @@ affected:
   - Compute/FRA1
 section: issue
 
+---
+
+07:48 GMT
+
+Servers have been restored in the FRA1 Region.
 
 ---
 
