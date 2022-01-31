@@ -7,8 +7,14 @@ resolvedWhen:
 severity: disrupted
 affected:
   - Customer hosted services in our NYC1 region
-  - Compute/FRA1
+  - Compute/NYC1
 section: issue
+
+---
+
+14:42 GMT
+
+We are continuing work on restoring the affected customer instances and clusters
 
 ---
 
