@@ -1,8 +1,8 @@
 ---
 title: Maintenance window in FRA1 on 03 February 2022
 date: 2022-02-03 23:00:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-02-04 00:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
