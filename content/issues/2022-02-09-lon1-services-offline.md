@@ -1,14 +1,20 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-02-09 16:39:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-02-09 17:24:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our LON1 region
   - Compute/LON1
 section: issue
+
+---
+
+17:24GMT
+
+All affected instances and Kubernetes nodes have been restored to functionality. We apologise for any inconvenience.
 
 ---
 
