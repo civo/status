@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+17:05GMT
+
+We are continuing with recovery of the stopped instances. 
+
+---
+
 16:39GMT
 
 We are noticing stoppages across a subset of virtual machines running in the LON1 region again. We are working to restore these now. The majority of LON1 workloads remain unaffected (and other regions are unaffected). The affected workloads can include compute (VM) instances as well as Kubernetes nodes.
