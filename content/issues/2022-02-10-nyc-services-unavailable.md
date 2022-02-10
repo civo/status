@@ -1,14 +1,20 @@
 ---
 title: Services inaccessible in NYC1
 date: 2022-02-10 13:17:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-02-10 13:46:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our NYC1 region
   - Compute/NYC1
 section: issue
+
+---
+
+13:46 GMT
+
+All stopped instances have been brought back online.
 
 ---
 
