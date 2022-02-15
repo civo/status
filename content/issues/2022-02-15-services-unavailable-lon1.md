@@ -1,8 +1,8 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-02-15 07:05:59 
-resolved: no
-# resolvedWhen:
+resolved: yes
+# resolvedWhen: 2022-02-15 08:05:59
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
