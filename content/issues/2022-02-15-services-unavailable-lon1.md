@@ -13,7 +13,7 @@ section: issue
 ---
 08:05:59  GMT
 
-We are noticing stoppages across a subset of virtual machines running in the LON1 region. We are working to restore these now. The vast majority of LON1 workloads remain unaffected (and other regions are unaffected).
+Issue resolved.
 
 ---
 
