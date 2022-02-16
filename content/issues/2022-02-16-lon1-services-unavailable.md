@@ -1,14 +1,20 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-02-16 12:59:00 
-resolved: no
-# resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-02-16 14:16:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our LON1 region
   - Compute/LON1
 section: issue
+
+---
+
+14:16 GMT
+
+Issue resolved.
 
 ---
 
