@@ -1,8 +1,8 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-02-17 11:19:00 
-resolved: no
-# resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-02-17 12:33:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -10,6 +10,11 @@ affected:
   - Compute/LON1
 section: issue
 
+---
+
+12:33 GMT
+
+The remaining affected virtual machines are back online.
 
 ---
 
