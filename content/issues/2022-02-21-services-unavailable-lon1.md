@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+18:25:00 GMT
+
+We are monitoring the stability as the last of the stopped services are being brought back online.
+
+---
+
 17:56:00 GMT
 
 We have restored service to half of the affected instances and cluster nodes and are continuing to work on restoring service to the rest. 
