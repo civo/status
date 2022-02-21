@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+17:56:00 GMT
+
+We have restored service to half of the affected instances and cluster nodes and are continuing to work on restoring service to the rest. 
+
+---
+
 17:45:00  GMT
 
 We are noticing stoppages across a subset of virtual machines running in the LON1 region. We are working to restore these now. The vast majority of LON1 workloads remain unaffected (and other regions are unaffected).
