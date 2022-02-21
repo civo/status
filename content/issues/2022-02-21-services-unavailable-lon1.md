@@ -1,8 +1,8 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-02-21 17:45:00 
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2022-02-21 19:33:00 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -11,6 +11,13 @@ affected:
 section: issue
 
 ---
+
+19:33 GMT
+
+The affected nodes and VMs have all been brought online and the platform appears stable.
+
+---
+
 18:54 GMT
 
 A subset of nodes has developed an issue again and we are working to bring these online.
