@@ -1,14 +1,20 @@
 ---
 title: Services unavailable in NYC1
 date: 2022-02-22 18:55:00
-resolved: yes
-resolvedWhen: 2022-02-22 19:15:00
+resolved: no
+resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our NYC1 region
   - Compute/NYC1
 section: issue
+
+---
+
+20:30 GMT
+
+Unfortunately it appears that a subset of nodes have become unavailable again and we are restoring service to these as fast as we can.
 
 ---
 
