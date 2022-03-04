@@ -1,6 +1,6 @@
 ---
 title: Services inaccessible in LON1
-date: 2022-03-04 14:25:00 
+date: 2022-03-04 14:25:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
