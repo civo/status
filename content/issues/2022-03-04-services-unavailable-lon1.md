@@ -1,14 +1,20 @@
 ---
 title: Services inaccessible in LON1
 date: 2022-03-04 14:25:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2022-03-04 15:07:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our LON1 region
   - Compute/LON1
 section: issue
+
+---
+
+15:07 GMT
+
+The last remaining VMs have been brought back online.
 
 ---
 
