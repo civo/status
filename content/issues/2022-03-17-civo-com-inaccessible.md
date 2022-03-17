@@ -1,14 +1,20 @@
 ---
 title: Civo.com inaccessible
 date: 2022-03-17 09:43:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2022-03-17 09:57:00
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: notice
 affected:
   - Civo.com Website
   - Civo API
 section: issue
+---
+
+09:57 GMT
+
+The issue with accessing Civo via HTTP has been resolved.
+
 ---
 
 09:54 GMT
