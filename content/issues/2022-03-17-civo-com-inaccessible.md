@@ -4,7 +4,7 @@ date: 2022-03-17 09:43:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: down
 affected:
   - Civo.com Website
 section: issue
