@@ -11,6 +11,12 @@ affected:
 section: issue
 ---
 
+09:54 GMT
+
+We believe we have found the cause of the disruption and are working on fixing it.
+
+---
+
 09:50 GMT
 
 Access to the Civo API via CLI or other tools is disrupted too. Customer workloads (clusters, VMs) continue to operate as normal.
