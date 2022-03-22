@@ -2,13 +2,19 @@
 title: Services inaccessible in FRA1
 date: 2022-03-22 07:19:00
 resolved: no
-# resolvedWhen: 
+resolvedWhen: 2022-03-22 07:44:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Customer hosted services in our FRA1 region
   - Compute/FRA1
 section: issue
+
+---
+
+07:44 GMT
+
+Issue resolved.
 
 ---
 
