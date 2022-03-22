@@ -1,7 +1,7 @@
 ---
 title: Services inaccessible in FRA1
 date: 2022-03-22 07:19:00
-resolved: no
+resolved: yes
 resolvedWhen: 2022-03-22 07:44:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
