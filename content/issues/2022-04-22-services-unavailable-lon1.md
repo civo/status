@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+11:28  GMT
+
+Workloads are starting up again now, shouldn't be long.
+
+---
+
 10:48  GMT
 
 We are noticing stoppages across a subset of virtual machines running in the LON1 region. We are working to restore these now. The vast majority of LON1 workloads remain unaffected (and other regions are unaffected).
