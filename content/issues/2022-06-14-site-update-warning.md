@@ -15,6 +15,8 @@ section: issue
 
 The update has been rolled out and we are monitoring the functionality. Please don't hesitate to get in touch with us through the Intercom bubble on the site if you experience any further issues.
 
+---
+
 10:45 GMT +1
 
 The site update is proceeding but users may see an error when they try to access their account dashboard. All workloads continue to run as normal. Please bear with us while we get this fixed.
