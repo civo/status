@@ -4,10 +4,16 @@ date: 2022-06-14 09:55:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: disrupted
 affected:
   - Civo.com Website
 section: issue
+
+---
+
+10:45 GMT +1
+
+The site update is proceeding but users may see an error when they try to access their account dashboard. All workloads continue to run as normal. Please bear with us while we get this fixed.
 
 ---
 
