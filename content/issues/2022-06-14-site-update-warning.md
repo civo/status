@@ -4,12 +4,16 @@ date: 2022-06-14 09:55:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Civo.com Website
 section: issue
 
 ---
+
+11:12 GMT +1
+
+The update has been rolled out and we are monitoring the functionality. Please don't hesitate to get in touch with us through the Intercom bubble on the site if you experience any further issues.
 
 10:45 GMT +1
 
