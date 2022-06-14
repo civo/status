@@ -1,13 +1,19 @@
 ---
 title: Notification of major site update to civo.com
 date: 2022-06-14 09:55:00 
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2022-06-14 12:25:00 
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
   - Civo.com Website
 section: issue
+
+---
+
+12:25 GMT +1
+
+The upgrade has been completed.
 
 ---
 
