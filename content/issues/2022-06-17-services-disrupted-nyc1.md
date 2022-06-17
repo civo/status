@@ -12,11 +12,12 @@ section: issue
 
 ---
 
-3:13pm GMT+1
+15:13:00 GMT + 1
+
 All affected VMs have been brought online. We apologize for the inconvenience this may have caused you.
 
 ---
 
-02:45  GMT+1
+14:45:00 GMT + 1
 
 We are noticing stoppages across a subset of virtual machines running in the NYC1 region. We are working to restore these now. The vast majority of NYC1 workloads remain unaffected (and other regions are unaffected).
