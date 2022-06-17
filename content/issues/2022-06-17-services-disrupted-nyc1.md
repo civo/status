@@ -1,6 +1,6 @@
 ---
 title: Services inaccessible in NYC1
-date: 2022-06-17 02:45:00 GMT+1
+date: 2022-06-17 02:45:00
 resolved: yes
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
