@@ -3,7 +3,7 @@ title: Maintenance Window
 date: 2022-08-11 09:00:00
 resolved: no
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Network/NYC1
 section: issue
