@@ -1,7 +1,8 @@
 ---
 title: Maintenance Window
 date: 2022-08-11 09:00:00
-resolved: no
+resolved: yes
+resolvedWhen: 2022-08-11 12:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
