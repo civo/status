@@ -1,5 +1,5 @@
 ---
-title: Maintenance Window - Core Router Upgrade
+title: Maintenance Window NYC1 - Core Router Upgrade September 27
 date: 2022-09-27 09:00:00
 resolved: no
 resolvedWhen:
