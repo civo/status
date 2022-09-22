@@ -6,7 +6,7 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
-  - Netowrk/NYC1
+  - Network/NYC1
 section: issue
 
 ---
