@@ -1,5 +1,5 @@
 ---
-title: Maintenance Window: Core Router Upgrade
+title: Maintenance Window - Core Router Upgrade
 date: 2022-09-27 09:00:00
 resolved: no
 resolvedWhen:
@@ -8,6 +8,7 @@ severity: notice
 affected:
   - Netowrk/NYC1
 section: issue
+
 ---
 
 2022-09-22 15:00:00 GMT
