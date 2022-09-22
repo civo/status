@@ -8,7 +8,6 @@ severity: notice
 affected:
   - Netowrk/NYC1
 section: issue
-
 ---
 
 2022-09-22 15:00:00 GMT
