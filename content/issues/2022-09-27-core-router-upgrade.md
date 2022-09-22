@@ -4,7 +4,7 @@ date: 2022-09-27 09:00:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity:
 affected:
   - Network/NYC1
 section: issue
