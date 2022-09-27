@@ -1,8 +1,8 @@
 ---
 title: Maintenance Window NYC1 - Core Router Upgrade September 27
 date: 2022-09-27 09:00:00
-resolved: no
-resolvedWhen:
+resolved: True
+resolvedWhen: 2022-09-27 10:20:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
