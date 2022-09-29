@@ -1,7 +1,7 @@
 ---
 title: Maintenance Window LON1 - Core Router Upgrade September 29
 date: 2022-09-29 21:00:00
-resolved: no
+resolved: true
 resolvedWhen: 2022-09-29 22:36:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
