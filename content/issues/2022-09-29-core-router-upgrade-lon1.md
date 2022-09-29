@@ -4,7 +4,7 @@ date: 2022-09-29 21:00:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity:
+severity: notice
 affected:
   - Network/LON1
 section: issue
