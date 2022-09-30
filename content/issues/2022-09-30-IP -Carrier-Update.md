@@ -2,7 +2,7 @@
 title: Maintenance Window NYC1, IP Carrier Update September 30
 date: 2022-09-30 04:00:00
 resolved: true
-resolvedWhen: 2022-09-30 07:00
+resolvedWhen: 2022-09-30 07:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
