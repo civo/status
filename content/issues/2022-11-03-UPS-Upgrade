@@ -1,0 +1,18 @@
+---
+title: Maintenance Window LON1, UPS Upgrade Nov 03
+date: 2022-11-03 20:00:00
+resolved: 
+resolvedWhen: 
+# Possible severity levels: down, disrupted, notice
+severity: notice
+affected:
+  - Network/LON1
+section: issue
+
+---
+
+2022-10-25 13:00:00 GMT
+
+We are committed to providing resilient and secure networking to back our cloud services. As part of this effort, we will be performing scheduled maintanence to upgrade our hardware. This is set to take place between 20:00:00 GMT untill 00:00:00 EDT on Thursday November the 3rd 2022. This will take the form of an at-risk window.
+
+We do not expect this work to cause any customer interruptions, however, customers should be aware that during the window we will be operating with reduced network resilience.
