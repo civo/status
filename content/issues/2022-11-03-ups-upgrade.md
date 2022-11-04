@@ -1,8 +1,8 @@
 ---
 title: Maintenance Window LON1 - UPS Upgrade Nov 03
 date: 2022-11-03 20:00:00
-resolved: False
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2022-11-03 23:59:59
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
