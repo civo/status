@@ -1,8 +1,8 @@
 ---
 title: Connection Issues
 date: 2022-11-14 09:00:00
-resolved: false
-resolvedWhen: 
+resolved: True
+resolvedWhen: 2022-11-14 10:40:00
 # Possible severity levels: down, disrupted, notice
 severity: dissrupted
 affected: 
