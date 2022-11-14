@@ -4,7 +4,7 @@ date: 2022-11-14 09:00:00
 resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: Down
+severity: dissrupted
 affected: 
 - Network/LON1
 - Network/NYC1
