@@ -4,7 +4,7 @@ date: 2023-01-07 20:00:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity:
+severity: notice
 affected:
   - Network/LON1
   - Compute/LON1
