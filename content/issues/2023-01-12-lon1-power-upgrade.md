@@ -1,5 +1,5 @@
 ---
-title: Maintenance Window LON1 - Power maintenance 12 January
+title: Maintenance Window LON1, Power maintenance 12 January
 date: 2023-01-07 20:00:00
 resolved: no
 resolvedWhen: 
