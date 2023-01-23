@@ -1,6 +1,6 @@
 ---
 title: Maintenance Window NYC1, Power maintenance 26 January
-date: 2023-01-26 10:00:00
+date: 2023-01-26 09:00:00
 resolved: False
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
@@ -12,7 +12,7 @@ section: issue
 
 ---
 
-2023-01-26 04:00:00 ET/ 10:00:00 GMT
+2023-01-26 04:00:00 ET/ 09:00:00 GMT
 
 We are committed to providing resilient and secure facilities to back our cloud services. As part of this effort, we will be performing scheduled maintenance to power hardware in NYC1. This is set to take place between 04:00:00 ET on Thursday January the 26th until 07:00:00 ET on Thursday January the 26th 2023. This will take the form of an at-risk window.
 
