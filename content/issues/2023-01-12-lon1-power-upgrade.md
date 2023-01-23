@@ -1,8 +1,8 @@
 ---
 title: Maintenance Window LON1, Power maintenance 12 January
 date: 2023-01-07 20:00:00
-resolved: false
-resolvedWhen: 
+resolved: True
+resolvedWhen: 2023-01-07 20:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
