@@ -1,8 +1,8 @@
 ---
 title: Connection Issues
 date: 2023-01-23 16:30:00
-resolved: False
-resolvedWhen: 
+resolved: True
+resolvedWhen: 2023-01-23 17:10:00
 # Possible severity levels: down, disrupted, notice
 severity: Down
 affected: 
