@@ -4,7 +4,7 @@ date: 2023-01-24 21:00:00
 resolved: False
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: 
 affected:
   - Network/FRA1
   - Compute/FRA1
