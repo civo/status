@@ -4,7 +4,7 @@ date: 2023-01-26 09:00:00
 resolved: False
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: Notice
+severity: 
 affected:
   - Network/NYC1
   - Compute/NYC1
