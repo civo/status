@@ -1,14 +1,20 @@
 ---
 title: Maintenance Window FRA1, Power maintenance 24 January
 date: 2023-01-24 21:00:00
-resolved: False
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2023-01-24 20:00:00 
 # Possible severity levels: down, disrupted, notice
 severity: 
 affected:
   - Network/FRA1
   - Compute/FRA1
 section: issue
+
+---
+
+2023-01-24 20:00:00 GMT
+
+We have had to postpone this work due to an unforeseen issue. A new status will be posted when we confirm the next possible window for the completion of this work.
 
 ---
 
