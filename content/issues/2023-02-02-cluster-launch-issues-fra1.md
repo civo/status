@@ -1,6 +1,6 @@
 ---
 title: Cluster launches affected in FRA1
-date: 2023-02-02 13:00:00
+date: 2023-02-02 14:00:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
@@ -11,7 +11,7 @@ section: issue
 
 ---
 
-2023-02-02 13:00 GMT
+2023-02-02 14:00 GMT
 
 We are noticing issues with new node and cluster launches in FRA1.
 
