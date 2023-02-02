@@ -4,10 +4,16 @@ date: 2023-02-02 14:00:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/FRA1
 section: issue
+
+---
+
+2023-02-02 15:48 GMT
+
+We believe we have located the cause of the launch issue and functionality should be restored. We are working on ensuring it does not repeat.
 
 ---
 
