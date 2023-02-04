@@ -1,5 +1,5 @@
 ---
-title: Cluster launches affected in All Regions
+title: Node pool scaling affected in All Regions
 date: 2023-02-04 14:15:00
 resolved: false
 resolvedWhen: 
@@ -10,6 +10,12 @@ affected:
   - Compute/NYC1
   - Compute/LON1
 section: issue
+
+---
+
+2023-02-04 18:20 GMT
+
+The issue we have seen is now confined to node pool scaling. The issue around cluster launches has been mitigated, and  all pending cluster launches should be up.
 
 ---
 
