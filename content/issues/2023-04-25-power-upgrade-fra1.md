@@ -1,5 +1,5 @@
 ---
-title: Maintenance Window FRA1: Power maintenance 25 April
+title: Maintenance Window FRA1 – Power maintenance 25 April
 date: 2023-04-25 21:00:00
 resolved: no
 resolvedWhen:
