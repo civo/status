@@ -1,5 +1,5 @@
 ---
-title: Civo.com inaccessible
+title: Civo.com and API intermittently inaccessible
 date: 2023-04-25 19:15:00
 resolved: no
 resolvedWhen:
