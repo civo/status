@@ -1,6 +1,6 @@
 ---
 title: Civo.com inaccessible
-date: 2023-04-25 14:15:00
+date: 2023-04-25 19:15:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
