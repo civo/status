@@ -4,12 +4,18 @@ date: 2023-04-25 21:00:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: 
+severity: notice
 affected:
   - Network/FRA1
   - Compute/FRA1
   - Storage/FRA1
 section: issue
+
+---
+
+2023-04-25 22:15:00
+
+The works are progressing on the power resiliency upgrade. All workloads continue to operate as normal.
 
 ---
 
