@@ -1,8 +1,8 @@
 ---
 title: Maintenance Window FRA1 – Power maintenance 25 April
 date: 2023-04-25 21:00:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2023-04-25 22:55:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
