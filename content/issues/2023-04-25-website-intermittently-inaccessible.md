@@ -11,6 +11,12 @@ affected:
 section: issue
 ---
 
+19:20 GMT
+
+We are aware of an internal API issue that is causing 503 errors intermittently and are working on a fix.
+
+---
+
 19:15 GMT
 
 We are aware of the www.civo.com pages being intermittently inaccessible and are investigating what has caused it.
