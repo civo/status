@@ -13,6 +13,12 @@ section: issue
 
 ---
 
+2023-04-25 22:51:00
+
+The power upgrade work is complete and all upgraded devices are performing as expected.
+
+---
+
 2023-04-25 22:35:00
 
 The power resiliency upgrade has been completed for all networking equipment in the region.
