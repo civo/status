@@ -4,11 +4,17 @@ date: 2023-05-23 19:10:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Civo.com Website
   - Civo API
 section: issue
+---
+
+19:16 GMT
+
+The issue that caused the Civo API to become inaccessible has been rectified and we are monitoring to make sure it stays stable.
+
 ---
 
 19:13 GMT
