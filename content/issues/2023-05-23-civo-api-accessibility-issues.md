@@ -1,14 +1,20 @@
 ---
 title: Civo.com and API intermittently inaccessible
 date: 2023-05-23 19:10:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2023-05-23 19:20:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
   - Civo.com Website
   - Civo API
 section: issue
+---
+
+19:20 GMT
+
+We believe the error may have been transitory and is fixed. The API and Civo website are responding as normal.
+
 ---
 
 19:16 GMT
