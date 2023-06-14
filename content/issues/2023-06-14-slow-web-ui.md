@@ -3,7 +3,7 @@ title: Slow web UI and DNS records missing
 date: 2023-06-14 07:25:00
 resolved: no
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: disrupted
 affected:
   - Civo.com Website
   - Civo DNS
