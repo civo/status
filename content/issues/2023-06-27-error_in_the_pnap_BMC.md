@@ -13,7 +13,7 @@ affected:
 section: issue
 ---
 
-10:30 GMT
+10:30 BST
 
 We are experiencing a partial outage in the PHX Region, engineers are investigating now.
 
