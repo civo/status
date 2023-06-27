@@ -15,6 +15,6 @@ section: issue
 
 10:30 GMT
 
-We are experiencing a partial outage in the PHX Region, enghineers are investigating now.
+We are experiencing a partial outage in the PHX Region, engineers are investigating now.
 
 ---
