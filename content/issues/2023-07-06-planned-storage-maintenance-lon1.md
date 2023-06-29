@@ -1,5 +1,5 @@
 ---
-title: Planned Maintenance Notice: Storage Infrastructure Upgrades - LON1
+title: Planned Maintenance Notice - Storage Infrastructure Upgrades - LON1
 date: 2023-07-06 20:00:00
 resolved: no
 resolvedWhen:
