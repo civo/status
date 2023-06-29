@@ -18,12 +18,7 @@ We would like to inform you about an upcoming period of planned maintenance that
 
 This maintenance is essential to enhance the stability of our services and implement changes to ensure future maintenance can be performed seamlessly, without any service interruptions. We apologise for any inconvenience this may cause and appreciate your understanding and patience.
 
-Maintenance Schedule for LON1:
-
-Dates:
-6th-9th July 2023
-
-13th-16th July 2023
+Maintenance Schedule for LON1: 6th-9th July and 13th-16th July 2023
 
 Maintenance Days: Thursday to Sunday
 
