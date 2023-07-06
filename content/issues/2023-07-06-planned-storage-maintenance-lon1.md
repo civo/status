@@ -12,6 +12,14 @@ affected:
 section: issue
 ---
 
+2023-07-06
+
+21:00 BST
+
+The maintenance work is in progress.
+
+---
+
 2023-06-29
 
 We would like to inform you about an upcoming period of planned maintenance that will be conducted on our storage infrastructure across multiple regions.
