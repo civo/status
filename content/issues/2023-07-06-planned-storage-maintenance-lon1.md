@@ -12,6 +12,14 @@ affected:
 section: issue
 ---
 
+2023-07-07
+
+21:00 BST
+
+The maintenance work is in progress.
+
+---
+
 2023-06-07
 
 00:10 BST
