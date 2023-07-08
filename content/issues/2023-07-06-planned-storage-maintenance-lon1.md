@@ -4,12 +4,19 @@ date: 2023-07-06 20:00:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: 
+severity: notify
 affected:
   - Compute/LON1
   - Storage/LON1
     
 section: issue
+---
+
+2023-08-07
+
+21:00 BST
+
+The maintenance work is in progress.
 ---
 
 2023-07-07
