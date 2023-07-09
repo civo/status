@@ -4,12 +4,22 @@ date: 2023-07-06 20:00:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: 
 affected:
   - Compute/LON1
   - Storage/LON1
     
 section: issue
+---
+
+2023-09-07
+
+23:40 BST
+
+The round of upgrades have been completed. The next stage will occur the evening of 13th July.
+
+Please reach out through support channels if you notice anything out of the ordinary on your storage.
+
 ---
 
 2023-09-07
