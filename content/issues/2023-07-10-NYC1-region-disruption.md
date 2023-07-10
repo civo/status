@@ -1,6 +1,6 @@
 ---
 title: Outage Notice - Site Power Issue - NYC1
-date: 2023-07-10 01:13:00
+date: 2023-07-10 22:13:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
