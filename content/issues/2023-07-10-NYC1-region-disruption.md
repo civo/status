@@ -4,7 +4,7 @@ date: 2023-07-10 010:13:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity:
+severity: disrupted
 affected:
   - Compute/NYC1
   - Storage/NYC1
