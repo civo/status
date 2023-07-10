@@ -8,6 +8,7 @@ severity: disrupted
 affected:
   - Compute/NYC1
   - Storage/NYC1
+  - Network/NYC1
     
 section: issue
 ---
