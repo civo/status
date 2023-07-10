@@ -4,13 +4,22 @@ date: 2023-07-10 22:13:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted 
+severity: down 
 affected:
   - Compute/NYC1
   - Storage/NYC1
   - Network/NYC1
     
 section: issue
+
+---
+
+23:45:00 UTC
+
+The data center provider work to restore power continues.
+
+We will next update at 00:15:00 UTC failing any other update from the NYC1 data center.
+
 ---
 
 23:15:00 UTC
