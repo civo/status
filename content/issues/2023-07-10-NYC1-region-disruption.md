@@ -11,7 +11,8 @@ affected:
     
 section: issue
 ---
-2023-07-10
+
+2023-07-10 22:20:00 UTC
 
 Region services are now recovering.
 
