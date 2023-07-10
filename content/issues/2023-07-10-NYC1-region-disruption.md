@@ -13,6 +13,14 @@ affected:
 section: issue
 ---
 
+23:15:00 UTC
+
+We are in contact with the data center who confirm that they are experiencing wide-ranging power issues. They are attempting to restore the power. 
+
+We will update here next at 23:45.
+
+---
+
 22:53:00 UTC
 
 The power in the NYC1 data center is still out and the region is inaccessible.
