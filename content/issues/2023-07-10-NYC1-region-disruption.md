@@ -12,6 +12,14 @@ affected:
 section: issue
 ---
 
+22:53:00 UTC
+
+The power in the NYC1 data center is still out and the region is inaccessible.
+
+We will next update here at 23:15 UTC, or earlier if we can.
+
+---
+
 2023-07-10 22:34:00 UTC
 
 The power issue in the data center has reoccurred minutes after the recovery of the workloads. We are working with the data center to recover as soon as possible, along with ensuring that this does not reoccur.
