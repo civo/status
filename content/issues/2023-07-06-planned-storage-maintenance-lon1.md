@@ -12,7 +12,7 @@ affected:
 section: issue
 ---
 
-2023-09-07
+2023-07-09
 
 23:40 BST
 
@@ -22,7 +22,7 @@ Please reach out through support channels if you notice anything out of the ordi
 
 ---
 
-2023-09-07
+2023-07-09
 
 21:00 BST
 
@@ -30,7 +30,7 @@ The maintenance work is in progress.
 
 ---
 
-2023-08-07
+2023-07-08
 
 23:30 BST
 
@@ -40,14 +40,15 @@ Please reach out through support channels if you notice anything out of the ordi
 
 ---
 
-2023-08-07
+2023-07-08
 
 21:00 BST
 
 The maintenance work is in progress.
+
 ---
 
-2023-08-07
+2023-07-08
 
 00:40 BST
 
