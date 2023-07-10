@@ -12,9 +12,9 @@ affected:
 section: issue
 ---
 
-2023-07-10 22:20:00 UTC
+2023-07-10 22:34:00 UTC
 
-Region services are now recovering.
+The power issue in the data center has reoccurred minutes after the recovery of the workloads. We are working with the data center to recover as soon as possible, along with ensuring that this does not reoccur.
 
 ---
 2023-07-10
