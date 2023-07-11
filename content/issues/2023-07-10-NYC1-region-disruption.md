@@ -13,6 +13,18 @@ affected:
 section: issue
 ---
 
+13:28 UTC
+
+The latest update we have received from the data center management:
+
+The process to prepare the UPS room for re-powering the facility after the fire suppression has been continuing through the night, but continues. This is expected to take at least another 3 hours.
+
+Once complete, local regulations require the approval of the fire marshal to begin the next stage in powering up the data center.
+
+We will update here in 3 hours, or sooner if we have any more information.
+
+---
+
 12:00 UTC
 
 The data center operator was due to provide an update at 8:00am EDT, but we have not yet received anything from them.
