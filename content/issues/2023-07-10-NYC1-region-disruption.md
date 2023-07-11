@@ -15,7 +15,9 @@ section: issue
 
 01:45:00 UTC
 
-We have received an update from the data center operator: The cause of the site outage has been identified as a failure to the resilient UPS systems and is still being mitigated. Engineers are on site and are progressing through the process of ensuring that power can be restored to the site without causing any subsequent interruptions.
+We have received an update from the data center operator: 
+
+The cause of the site outage has been identified as a failure to the resilient UPS systems and is still being mitigated. Engineers are on site and are progressing through the process of ensuring that power can be restored to the site without causing any subsequent interruptions.
 
 At the moment we don't have an ETA for the final power restoration and will be continuing to provide regular updates here.
 
