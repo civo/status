@@ -13,6 +13,16 @@ affected:
 section: issue
 ---
 
+03:27 UTC
+
+We have received a new update from the data center management:
+
+The fire marshal procedures require UPS facilities to be cleaned before the data center can be re-powered. This work has begun but they estimate the process will take several hours before any steps to bringing facilities back online.
+
+The data center management expects to issue another update at 8am EDT (12:00 UTC) but we will of course update here if we learn anything before then.
+
+---
+
 02:45 UTC
 
 We have not received an update about the rate of progress, but understand that works are ongoing.
