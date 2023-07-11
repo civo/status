@@ -195,7 +195,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: true
+  disableIncidentHistory: false
 
   # Disable dark mode
   #
