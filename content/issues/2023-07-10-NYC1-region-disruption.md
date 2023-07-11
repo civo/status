@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+00:15:00 UTC
+
+We're afraid we have no update to share other than the data center provider in NYC1 is working on restoring power, which continues to be out.
+
+---
+
 23:45:00 UTC
 
 The data center provider work to restore power continues.
@@ -43,7 +49,7 @@ We will next update here at 23:15 UTC, or earlier if we can.
 The power issue in the data center has reoccurred minutes after the recovery of the workloads. We are working with the data center to recover as soon as possible, along with ensuring that this does not reoccur.
 
 ---
-2023-07-10
+2023-07-10 22:13:00 UTC
 
 An unexpected site power issue has caused a reboot of a subset of nodes and the routing gear in NYC1.
 The region power interruption was partial, and the machines all have powered on. Workloads are starting up now. 
