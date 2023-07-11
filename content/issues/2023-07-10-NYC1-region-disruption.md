@@ -13,6 +13,28 @@ affected:
 section: issue
 ---
 
+20:50 UTC
+
+We have had a further update from the data center:
+
+---
+We have just finished the meeting with the fire marshal, electrical inspectors, and our onsite management. They have asked us to clean additional spaces and  have also asked us to replace some components of the fire system. They have set a time to come back and review these requests at 9am EDT (13:00UTC) Wednesday. We are working to comply completely with these new requests with these vendors and are bringing in additional cleaning personnel onsite to make the fire marshal's deadline.
+
+In preparation for being able to allow clients onsite, the fire marshal has stated that we need to perform a full test of the fire/life safety systems which will be done after utility power has been restored and fire system components replaced. We have these vendors standing by for this work tomorrow.
+Assuming that all goes as planned, the earliest that power would be restored to servers would be late in the day Wednesday.
+
+---
+
+We at Civo appreciate the frustrations this prolonged outage is causing our customers. The priority of the fire department is to make the site safe before bringing it back online, so we are unable to escalate this, as the fire marshal's decision is final.
+
+We're also not able to access our equipment at this time, so are unable to attempt to move it to another data center. The site is locked down by the fire department.
+
+Once the issue is fully resolved, we'll be pushing the data center for extensive information on exactly what happened and will be seeking assurances for the future.
+
+We will follow up with status updates here as we get more information from the data center. Our next update will be at 14:30UTC Wednesday 12th at the earliest, allowing time for the data center and the fire department to carry out their inspections at 13:30 and report back to us.
+
+---
+
 19:10 UTC
 
 The entire data center power remains off. We are still waiting on the update from the meeting by site management, the fire marshal and electrical contractors. We will update here at 20:00 UTC or earlier if we get an update.
