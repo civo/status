@@ -13,6 +13,12 @@ affected:
 section: issue
 ---
 
+19:10 UTC
+
+The entire data center power remains off. We are still waiting on the update from the meeting by site management, the fire marshal and electrical contractors. We will update here at 20:00 UTC or earlier if we get an update.
+
+---
+
 16:05 UTC
 
 The latest update we have received from the data center management:
