@@ -17,7 +17,7 @@ section: issue
 
 The latest update we have received from the data center management:
 
-The process to prepare the UPS room for re-powering the facility after the fire suppression has been continuing through the night, but continues. This is expected to take at least another 3 hours.
+The process to prepare the UPS room for re-powering the facility after the fire suppression has been on-going through the night, but continues. This is expected to take at least another 3 hours.
 
 Once complete, local regulations require the approval of the fire marshal to begin the next stage in powering up the data center.
 
