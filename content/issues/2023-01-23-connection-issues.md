@@ -11,6 +11,15 @@ affected:
 - Network/FRA1
 section: issue
 ---
+
+17:10
+
+The network issues have been resolved and connections should be back to normal. We apologize for the inconvenience.
+
+---
+
+16:30 GMT
+
 We are seeing connection issues, we are working on a resolution now.
 
 We will update here when we know more.
