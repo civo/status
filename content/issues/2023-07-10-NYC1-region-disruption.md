@@ -13,6 +13,12 @@ affected:
 section: issue
 ---
 
+02:45 UTC
+
+We have not received an update about the rate of progress, but understand that works are ongoing.
+
+---
+
 02:15 UTC
 
 We have received a futher update from the data center:
