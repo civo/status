@@ -13,6 +13,18 @@ affected:
 section: issue
 ---
 
+16:05 UTC
+
+The latest update we have received from the data center management:
+
+The cleaning for the UPS room is still on going and progressing well. This is due to be completed in time for a site inspecting by the local fire services at 2PM EDT (18:00 UTC).
+
+The data center management expect that the site will pass the requirements to start the powering-on of the site after this inspection.
+
+We will update hear once we hear the results of the meeting and expect the next update by 19:00 UTC
+
+---
+
 13:28 UTC
 
 The latest update we have received from the data center management:
