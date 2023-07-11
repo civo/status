@@ -14,6 +14,14 @@ section: issue
 
 ---
 
+00:45:00 UTC
+
+The power issue continues to persist and we have no indication of an estimated time to fix and restoration of service in the data center that houses the NYC1 region.
+
+We will next update here at 01:15 UTC unless we hear any updates sooner.
+
+---
+
 2023-07-11 00:15:00 UTC
 
 We're afraid we have no update to share other than the data center provider in NYC1 is working on restoring power, which continues to be out.
