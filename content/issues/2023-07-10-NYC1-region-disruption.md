@@ -17,6 +17,8 @@ section: issue
 
 We have not received an update about the rate of progress, but understand that works are ongoing.
 
+We will next update at 03:45 UTC.
+
 ---
 
 02:15 UTC
