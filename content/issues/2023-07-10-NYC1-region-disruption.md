@@ -13,6 +13,22 @@ affected:
 section: issue
 ---
 
+02:15 UTC
+
+We have received a futher update from the data centre:
+
+An isolated fire in a single UPS in a dedicated electrical room was detected and put out by the automated fire suppression system. The local fire department were called and when they arrived on the scene, and per NEC guidelines, cut the power to the building.
+
+Datacenter electricians are on site and awaiting permission from the fire department to access to the building to perform any repair works to the UPS systems and restoring main power to the building.
+
+Once the electrical work is complete, the HVACs will be started to cool the facility. Once temperatures are within the required SLAs, a phased power on will be carried out to data halls.
+
+We do not have an ETA for this process to be completed.
+
+Our next update here will be at 03:15 UTC.
+
+---
+
 01:45:00 UTC
 
 We have received an update from the data center operator: 
