@@ -14,11 +14,9 @@ section: issue
 
 ---
 
-00:15:00 UTC
+01:15:00 UTC
 
 We hope to have an update on the work progress soon. At the latest, we hope to update at 00:45 UTC (in half an hour) if not sooner.
-
----
 
 00:45:00 UTC
 
