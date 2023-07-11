@@ -15,7 +15,7 @@ section: issue
 
 02:15 UTC
 
-We have received a futher update from the data centre:
+We have received a futher update from the data center:
 
 An isolated fire in a single UPS in a dedicated electrical room was detected and put out by the automated fire suppression system. The local fire department were called and when they arrived on the scene, and per NEC guidelines, cut the power to the building.
 
