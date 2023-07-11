@@ -2,7 +2,7 @@
 title: Node pool scaling affected in All Regions
 date: 2023-02-04 14:15:00
 resolved: true
-resolvedWhen: 2023-02-04 23:50:00
+resolvedWhen: 2023-02-04 18:20:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:

@@ -13,8 +13,12 @@ affected:
 section: issue
 ---
 
+13:30 BST
+
+The outage has been resolved. We apologize for the inconvenience.
+
+---
+
 10:30 BST
 
 We are experiencing a partial outage in the PHX Region, engineers are investigating now.
-
----
