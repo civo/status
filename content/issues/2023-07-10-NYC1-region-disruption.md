@@ -15,7 +15,7 @@ section: issue
 
 12:00 UTC
 
-The data center operator was due to post an update at 8:00am EDT, but we have not yet received anything from them.
+The data center operator was due to provide an update at 8:00am EDT, but we have not yet received anything from them.
 
 As soon as we have an update we will post it immediately.
 
