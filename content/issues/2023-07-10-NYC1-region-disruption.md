@@ -13,6 +13,16 @@ affected:
 section: issue
 ---
 
+01:45:00 UTC
+
+The cause of the site outage has been identified as a failure to the resilient UPS systems and is still being mitigated. Engineers are on site and are progressing through the process of ensuring that power can be restored to the site without causing any subsequent interruptions.
+
+At the moment we don't have an ETA for the final power restoration and will be continuing to provide regular updates here.
+
+The next update will be at 02:15 UTC
+
+---
+
 01:15:00 UTC
 
 We hope to have an update on the work progress soon. At the latest, we hope to update at 00:45 UTC (in half an hour) if not sooner.
