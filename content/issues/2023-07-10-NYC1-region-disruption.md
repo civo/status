@@ -19,7 +19,7 @@ We have received a futher update from the data center:
 
 An isolated fire in a single UPS in a dedicated electrical room was detected and put out by the automated fire suppression system. The local fire department were called and when they arrived on the scene, and per NEC guidelines, cut the power to the building.
 
-Datacenter electricians are on site and awaiting permission from the fire department to access to the building to perform any repair works to the UPS systems and restoring main power to the building.
+Datacenter electricians are on site and awaiting permission from the fire department to gain access to the building to perform any repair works to the UPS systems and restoring main power to the building.
 
 Once the electrical work is complete, the HVACs will be started to cool the facility. Once temperatures are within the required SLAs, a phased power on will be carried out to data halls.
 
