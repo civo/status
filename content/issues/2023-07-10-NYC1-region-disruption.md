@@ -14,7 +14,7 @@ section: issue
 
 ---
 
-00:15:00 UTC
+2023-07-11 00:15:00 UTC
 
 We're afraid we have no update to share other than the data center provider in NYC1 is working on restoring power, which continues to be out.
 
