@@ -15,7 +15,7 @@ section: issue
 
 15:55 UTC
 
-We have received the following update from the data center administration:
+We have received the following update from the data center operator:
 
 ---
 
@@ -35,7 +35,7 @@ We will be updating here with everything we learn from these hourly updates.
 
 2023-07-12 14:30 UTC
 
-We have received the latest update from the data center administration:
+We have received the latest update from the data center operator:
 
 Works have continued overnight and an inspection meeting is underway to assess the authorization and process of re-powering the facility.
 
@@ -68,17 +68,17 @@ We will follow up with status updates here as we get more information from the d
 
 19:10 UTC
 
-The entire data center power remains off. We are still waiting on the update from the meeting by site management, the fire marshal and electrical contractors. We will update here at 20:00 UTC or earlier if we get an update.
+The entire data center power remains off. We are still waiting on the update from the meeting by the data center operator, the fire marshal and electrical contractors. We will update here at 20:00 UTC or earlier if we get an update.
 
 ---
 
 16:05 UTC
 
-The latest update we have received from the data center management:
+The latest update we have received from the data center operator:
 
 The cleaning for the UPS room is still on going and progressing well. This is due to be completed in time for a site inspecting by the local fire services at 2PM EDT (18:00 UTC).
 
-The data center management expect that the site will pass the requirements to start the powering-on of the site after this inspection.
+The data center operator expects that the site will pass the requirements to start the powering-on of the site after this inspection.
 
 We will update hear once we hear the results of the meeting and expect the next update by 19:00 UTC
 
@@ -86,7 +86,7 @@ We will update hear once we hear the results of the meeting and expect the next 
 
 13:28 UTC
 
-The latest update we have received from the data center management:
+The latest update we have received from the data center operator:
 
 The process to prepare the UPS room for re-powering the facility after the fire suppression has been on-going through the night, but continues. This is expected to take at least another 3 hours.
 
@@ -106,11 +106,11 @@ As soon as we have an update we will post it immediately.
 
 03:27 UTC
 
-We have received a new update from the data center management:
+We have received a new update from the data center operator:
 
 The fire marshal procedures require UPS facilities to be cleaned before the data center can be re-powered. This work has begun but they estimate the process will take several hours before any steps to bringing facilities back online.
 
-The data center management expects to issue another update at 8am EDT (12:00 UTC) but we will of course update here if we learn anything before then.
+The data center operator expects to issue another update at 8am EDT (12:00 UTC) but we will of course update here if we learn anything before then.
 
 ---
 
