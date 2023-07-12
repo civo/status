@@ -13,6 +13,20 @@ affected:
 section: issue
 ---
 
+16:57 UTC
+
+We have received an update from the data center operator.
+
+They have completed the full site inspection with the fire marshal and the electrical inspector and utility power has been restored to the site.
+
+They are now working to restore critical systems with the primary electrical equipment for the site powered up. Concurrently, they are beginning work to bring the mechanical plant online. Additional engineers from other facilities are on site this morning to expedite site turn up.
+
+They plan on data halls, and customer equipment, including Civo's, to be powered up in the late afternoon EDT (evening UTC).
+
+We will look to update here by 21:00 UTC with details.
+
+---
+
 15:55 UTC
 
 We have received the following update from the data center operator:
