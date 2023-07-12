@@ -13,6 +13,24 @@ affected:
 section: issue
 ---
 
+18:03 UTC
+
+The latest update from the data center operator:
+
+---
+
+Our onsite team has energized the primary electrical equipment that powers the site, enabling us to bring our mechanical plant online. We are currently cooling the facility.
+
+As we monitor for stability, we are focused on bringing up our electrical systems. In starting this process, we have identified an issue with powering up our fire panel as well as power systems that were powered by UPS3. While this will cause us a delay, we are working with our vendors for remediation.
+
+We are currently at 25% for completion toward bringing the site back online and the revised ETA for bringing up the critical infrastructure systems is approximately 7 hours. We are still planning for an evening time frame when clients will be able to come back on site. We will send out additional information regarding access to the facility and remote hands assistance and we will notify you once client access to the facility is permitted.
+
+---
+
+At this stage it's unknown which UPS systems Civo is connected to and whether the issues with UPS3 may affect our systems from coming back online. We will continue to update here as we receive more information.
+
+---
+
 16:57 UTC
 
 We have received an update from the data center operator.
