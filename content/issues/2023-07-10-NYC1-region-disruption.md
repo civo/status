@@ -13,6 +13,26 @@ affected:
 section: issue
 ---
 
+15:55 UTC
+
+We have received the following update from the data center administration:
+
+---
+
+Our site inspection this morning went well and we have been granted authorization to restore utility power to the site and are currently working on re-energizing utility power to the facility. Our onsite team is working with the fire marshal and electrical inspectors, ensuring electrical system safety as we prepare to bring utility power back to the site.
+
+Once that is completed, we will work towards bringing up our critical infrastructure systems. This will take approximately 5 hours.
+
+While we are working on that, we will also be working on our fire/life safety systems as we need to replace some smoke detectors and have a full inspection of the fire system prior to allowing customers to enter the facility.
+
+We will be sending out hourly updates as we make progress on bringing the facility back online.
+
+---
+
+We will be updating here with everything we learn from these hourly updates.
+
+---
+
 2023-07-12 14:30 UTC
 
 We have received the latest update from the data center administration:
