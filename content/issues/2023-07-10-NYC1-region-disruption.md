@@ -13,6 +13,14 @@ affected:
 section: issue
 ---
 
+21:57 UTC
+
+Latest update from the data center operator says that they are bringing UPS systems online and are charging their batteries. They have had to push back the estimated time to powering up the data halls, but are still planning for having these come online in the evening (Eastern Daylight Time) of the 12th of July.
+
+We will continue to update here as we receive more information.
+
+---
+
 18:03 UTC
 
 The latest update from the data center operator:
