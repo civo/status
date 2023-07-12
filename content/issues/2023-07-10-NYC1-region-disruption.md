@@ -13,6 +13,17 @@ affected:
 section: issue
 ---
 
+2023-07-12 14:30 UTC
+
+We have received the latest update from the data center administration:
+
+Works have continued overnight and an inspection meeting is underway to assess the authorization and process of re-powering the facility.
+
+
+As this meeting is currently under way, we have not had a report back from the data center as to timelines. We will be sure to update here as soon as we do.
+
+---
+
 20:50 UTC
 
 We have had a further update from the data center:
