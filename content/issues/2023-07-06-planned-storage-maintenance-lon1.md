@@ -2,7 +2,7 @@
 title: Planned Maintenance Notice - Storage Infrastructure Upgrades - LON1
 date: 2023-07-06 20:00:00
 resolved: true
-resolvedWhen: 2023-07-13 06:55 
+resolvedWhen: 2023-07-13 06:55:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
