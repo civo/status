@@ -13,6 +13,19 @@ affected:
 section: issue
 ---
 
+2023-07-12 00:12 UTC
+
+Update from the data center operator:
+
+Their onsite team is currently bringing the UPS systems online.
+The operator is still expecting to have critical systems back up in 3 hours, which is a requirement to power up telecommunications uplinks, followed by customer equipment.
+
+The Civo team will continue to provide updates as we receive them.
+
+Next update will be at 03:00 UTC unless we have new information.
+
+---
+
 21:57 UTC
 
 Latest update from the data center operator says that they are bringing UPS systems online and are charging their batteries. They have had to push back the estimated time to powering up the data halls, but are still planning for having these come online in the evening (Eastern Daylight Time) of the 12th of July.
