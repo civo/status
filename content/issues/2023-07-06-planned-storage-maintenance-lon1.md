@@ -12,8 +12,6 @@ affected:
 section: issue
 ---
 
----
-
 2023-07-13 06:55 UTC 
 
 We decided to postpone this LON1 Planned Maintenance. We will update here when we have the plan ready.
