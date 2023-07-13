@@ -1,15 +1,25 @@
 ---
 title: Planned Maintenance Notice - Storage Infrastructure Upgrades - LON1
-date: 2023-07-06 20:00:00
-resolved: true
-resolvedWhen: 2023-07-13 06:55:00
+date: 2023-07-20 20:00:00
+resolved: no
+resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: 
 affected:
   - Compute/LON1
   - Storage/LON1
     
 section: issue
+---
+
+2023-07-13 22:30 BST
+
+The planned maintenance is now scheduled for Thursday-Sunday 20-23 July:
+20 July 2023 21:00 to 08:00 (BST)
+21 July 2023 21:00 to 08:00 (BST)
+22 July 2023 21:00 to 08:00 (BST)
+23 July 2023 21:00 to 08:00 (BST)
+
 ---
 
 2023-07-13 06:55 UTC 
