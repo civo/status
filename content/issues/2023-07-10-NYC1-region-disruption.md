@@ -1,8 +1,8 @@
 ---
 title: Outage Notice - Site Power Issue - NYC1
 date: 2023-07-10 22:13:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2023-07-13 08:49:00
 # Possible severity levels: down, disrupted, notice
 severity: down 
 affected:
@@ -11,6 +11,12 @@ affected:
   - Network/NYC1
     
 section: issue
+
+---
+
+2023-07-13 08:49 UTC
+
+All customer workloads are running now. Should you need any assistance, feel free to contact us at https://www.civo.com/contact and we are happy to help.
 
 ---
 
