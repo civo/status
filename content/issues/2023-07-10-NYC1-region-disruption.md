@@ -11,6 +11,13 @@ affected:
   - Network/NYC1
     
 section: issue
+
+---
+
+2023-07-13 01:13 UTC
+
+Our servers are powered on and we are checking all the components to make sure they are operational.
+
 ---
 
 2023-07-12 00:12 UTC
