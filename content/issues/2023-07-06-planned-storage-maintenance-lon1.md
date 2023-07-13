@@ -15,10 +15,20 @@ section: issue
 2023-07-13 22:30 BST
 
 The planned maintenance is now scheduled for Thursday-Sunday 20-23 July:
-20 July 2023 21:00 to 08:00 (BST)
-21 July 2023 21:00 to 08:00 (BST)
-22 July 2023 21:00 to 08:00 (BST)
-23 July 2023 21:00 to 08:00 (BST)
+
+- 20 July 2023 21:00 to 08:00 (BST)
+- 21 July 2023 21:00 to 08:00 (BST)
+- 22 July 2023 21:00 to 08:00 (BST)
+- 23 July 2023 21:00 to 08:00 (BST)
+
+As before, during the maintenance period, our team will be working to implement fixes and improvements to our storage infrastructure. 
+
+We anticipate that up to 10% of instances in the respective region may be impacted by this maintenance per night. We will take every precaution to ensure the impact will be minimal.
+
+For the affected instances, a short outage will occur as they are halted and subsequently restarted. This interruption will be temporary, and the instances will quickly return to their running state once restarted. As the maintenance progresses, the risk of instances being halted will decrease, further minimising any potential disruptions.
+
+If you have any concerns or questions regarding this maintenance period, please don't hesitate to contact us.
+
 
 ---
 
