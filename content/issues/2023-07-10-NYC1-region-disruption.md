@@ -16,7 +16,9 @@ section: issue
 
 2023-07-13 02:20 UTC
 
-The team is continuing to work as quickly as possible to make sure all components are operational. We will look to update here by 3:20 UTC with details.
+The team is continuing to work as quickly as possible to make sure all components are operational.
+
+We will look to update here by 03:20 UTC with details.
 
 ---
 
