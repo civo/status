@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+2023-07-13 05:52 UTC
+
+Services should mostly back working. We are still working to bring back a few remaining services and will post an update once everything is back to normal.
+
+---
+
 2023-07-13 04:16 UTC
 
 All workloads have started and the team is now checking cluster health.
