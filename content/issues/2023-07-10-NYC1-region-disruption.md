@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+2023-07-13 03:20 UTC
+
+The team will begin to start up customer workloads in the next 10 minutes. We will continue to provide updates as things progress.
+
+---
+
 2023-07-13 02:20 UTC
 
 The team is continuing to work as quickly as possible to make sure all components are operational.
