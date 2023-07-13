@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+2023-07-13 02:20 UTC
+
+The team is continuing to work as quickly as possible to make sure all components are operational. We will look to update here by 3:20 UTC with details.
+
+---
+
 2023-07-13 01:13 UTC
 
 Our servers are powered on and we are checking all the components to make sure they are operational.
