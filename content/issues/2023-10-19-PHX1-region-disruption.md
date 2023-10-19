@@ -1,8 +1,8 @@
 ---
 title: Cluster & instance launches disrupted in PHX1
 date: 2023-10-19 04:37:00
-resolved: false
-# resolvedWhen: 2023-07-13 08:49:00
+resolved: true
+resolvedWhen: 2023-10-19 09:26:00
 # Possible severity levels: down, disrupted, notice
 severity: down 
 affected:
@@ -11,6 +11,12 @@ affected:
   - Network/PHX1
     
 section: issue
+
+---
+
+2023-10-19 09:26:00 UTC
+
+We have fixed the issues - cluster and instance launches should be operational as usual now.
 
 ---
 
