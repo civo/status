@@ -183,7 +183,7 @@ params:
   #
   # Default: `yearly`
   # STRING; `monthly`, `yearly`, `none`
-  incidentHistoryFormat: "yearly"
+  # incidentHistoryFormat: "yearly"
 
   # Should incident history be hidden?
   #
