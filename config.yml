@@ -158,6 +158,20 @@ params:
     - name: Network/FRA1
       category: CivoStack
 
+    - name: Storage/PHX1
+      category: CivoStack
+    - name: Compute/PHX1
+      category: CivoStack
+    - name: Network/PHX1
+      category: CivoStack
+
+    - name: Storage/DG-EXM
+      category: CivoStack
+    - name: Compute/DG-EXM
+      category: CivoStack
+    - name: Network/DG-EXM
+      category: CivoStack
+
   # What date format to use?
   #
   # Hugo formatting docs:
