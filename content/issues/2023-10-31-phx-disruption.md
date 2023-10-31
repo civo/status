@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+2023-10-31 15:58:00 UTC
+
+We are continuing the work to bring affected nodes back online.
+
+---
+
 2023-10-31 15:48:00 UTC
 
 We are working on recovering all workloads.
