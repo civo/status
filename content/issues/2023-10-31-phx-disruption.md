@@ -14,6 +14,12 @@ section: issue
 
 ---
 
+2023-10-31 15:48:00 UTC
+
+We are working on recovering all workloads.
+
+---
+
 2023-10-31 15:38:00 UTC
 
 Users may notice restarts on their instances and Kubernetes clusters due to this issue. We are investigating the cause.
