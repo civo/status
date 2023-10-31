@@ -1,5 +1,5 @@
 ---
-title: Disruption in PHX1
+title: Partial disruption in PHX1
 date: 2023-10-31 15:35:00
 resolved: yes
 resolvedWhen: 2023-10-31 17:40:00
@@ -34,28 +34,28 @@ Less than 2% of workloads affected continue to be disrupted. We hope to have the
 
 2023-10-31 16:56 UTC
 
-90% of workloads in the region have recovered successfully, and we are continuing work on restoring the remaining nodes to service.
+90% of the affected workloads in the region have recovered successfully, and we are continuing work on restoring the remaining nodes to service.
 
 ---
 
 2023-10-31 15:58:00 UTC
 
-We are continuing the work to bring affected nodes back online.
+We are continuing the work to bring the remaining affected nodes back online.
 
 ---
 
 2023-10-31 15:48:00 UTC
 
-We are working on recovering all workloads.
+We are working on recovering all affected workloads.
 
 ---
 
 2023-10-31 15:38:00 UTC
 
-Users may notice restarts on their instances and Kubernetes clusters due to this issue. We are investigating the cause.
+Affected users may notice restarts on their instances and Kubernetes clusters due to this issue. We are investigating the cause.
 
 ---
 
 2023-10-31 15:35:00 UTC
 
-We are noticing disruption with existing workloads in PHX1 and are investigating the issue. Other regions continue to operate as normal.
+We are noticing disruption affecting a limited amount of workloads in PHX1 and are investigating the issue. Other regions continue to operate as normal.
