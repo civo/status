@@ -16,7 +16,7 @@ section: issue
 
 2023-10-31 16:56 UTC
 
-90% of workloads in the region have recovered successfullyl, and we are continuing work on restoring the remaining nodes to service.
+90% of workloads in the region have recovered successfully, and we are continuing work on restoring the remaining nodes to service.
 
 ---
 
