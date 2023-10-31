@@ -1,7 +1,7 @@
 ---
 title: Disruption in PHX1
 date: 2023-10-31 15:35:00
-resolved: ni
+resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
