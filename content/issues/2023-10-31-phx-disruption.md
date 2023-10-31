@@ -4,13 +4,19 @@ date: 2023-10-31 15:35:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted 
+severity: notice 
 affected:
   - Compute/PHX1
   - Storage/PHX1
   - Network/PHX1
     
 section: issue
+
+---
+
+2023-10-31 17:37 UTC
+
+We are monitoring the region for continued stability as the workload restoration work has completed. We will update this status once the region is confirmed to be working as normal.
 
 ---
 
