@@ -1,8 +1,8 @@
 ---
 title: Disruption in PHX1
 date: 2023-10-31 15:35:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2023-10-31 17:40:00
 # Possible severity levels: down, disrupted, notice
 severity: notice 
 affected:
@@ -11,6 +11,12 @@ affected:
   - Network/PHX1
     
 section: issue
+
+---
+
+2023-10-31 17:40 UTC
+
+Normal service has been resumed in PHX1. If you are still experiencing any issues, please contact us. We apologize for the inconvenience.
 
 ---
 
