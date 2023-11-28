@@ -2,7 +2,7 @@
 title: Virtual machine outages in DG-EXM
 date: 2023-11-28 17:30:00
 resolved: true
-resolvedWhen: 2023-11-28 17:38:00
+resolvedWhen: 2023-11-28 18:38:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
