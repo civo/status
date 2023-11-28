@@ -1,8 +1,8 @@
 ---
 title: Virtual machine outages in DG-EXM
 date: 2023-11-28 17:30:00
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2023-11-28 17:38:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
@@ -10,6 +10,12 @@ affected:
   - Storage/DG-EXM
     
 section: issue
+
+---
+
+2023-11-28 18:38:00 UTC
+
+The issues affecting customer VMs in the region have been resolved. We will continue to monitor and will update if required.
 
 ---
 
