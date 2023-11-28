@@ -7,6 +7,7 @@ resolvedWhen:
 severity: disrupted 
 affected:
   - Compute/DG-EXM
+  - Storage/DG-EXM
     
 section: issue
 
