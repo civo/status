@@ -13,6 +13,12 @@ section: issue
 
 ---
 
+2023-11-28 18:36:00 UTC
+
+We are continuing to see an issue with only one remaining set of VM instances, which may be unrelated to the disruptions experienced more widely. We are working on mitigating the issue for that subset as well.
+
+---
+
 2023-11-28 18:21:00 UTC
 
 We are continuing work to restore a small number of affected VM instances in the region. New launches should work as normal, and any VMs not disrupted should continue to run without issue.
