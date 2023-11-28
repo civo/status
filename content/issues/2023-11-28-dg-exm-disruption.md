@@ -13,6 +13,12 @@ section: issue
 
 ---
 
+2023-11-28 18:21:00 UTC
+
+We are continuing work to restore a small number of affected VM instances in the region. New launches should work as normal, and any VMs not disrupted should continue to run without issue.
+
+---
+
 2023-11-28 17:47:00 UTC
 
 Workloads are being brought back online, though some compute nodes remain affected.
