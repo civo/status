@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+15:17 UTC
+
+We apologize for the inconvenience of not being able to launch clusters or instances from the dashboard, and are working on deploying a fix.
+
+---
+
 14:30 UTC
 
 The Civo website is currently experencing disruption with instance and cluster launches, with the page giving an error on viewing both the cluster and instance creation page.
