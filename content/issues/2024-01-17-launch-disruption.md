@@ -1,14 +1,20 @@
 ---
 title: Civo website instance/cluster launch disruption
 date: 2024-01-17 14:30:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2024-01-17 15:55:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
   - Civo.com Website
     
 section: issue
+
+---
+
+16:03 UTC
+
+The front-end issue affecting cluster an instance launches has been resolved. We apologize for the inconvenience.
 
 ---
 
