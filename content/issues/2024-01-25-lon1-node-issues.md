@@ -4,11 +4,17 @@ date: 2024-01-25 16:00:00
 resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted 
+severity: notice 
 affected:
   - Compute/LON1
     
 section: issue
+
+---
+
+2024-01-25 17:08 UTC
+
+All affected customer workloads are back online. We are continuing to monitor the stability of the platform in LON1 and will update here if necessary.
 
 ---
 
