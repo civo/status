@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2024-01-25 16:25 UTC
+
+The team is still working on a solution to restore the affected VM nodes to functionality. We will next update within 15 minutes.
+
+---
+
 2024-01-25 16:09 UTC
 
 We believe we have identified the issue causing the affected Virtual machine instances and Kubernetes nodes to become unresponsive and are working on restoring them.
