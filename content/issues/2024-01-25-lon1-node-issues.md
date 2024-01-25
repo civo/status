@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2024-01-25 16:40 UTC
+
+The majority of the affected workloads have been recovered. We are working on restoring the last few affected instances.
+
+---
+
 2024-01-25 16:25 UTC
 
 The team is still working on a solution to restore the affected VM nodes to functionality. We will next update within 15 minutes.
