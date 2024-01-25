@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2024-01-25 16:58 UTC
+
+A small subset of virtual machine instances and Kubernetes nodes remain affected and are pending reboots to bring them back online. We apologize for the inconvenience.
+
+---
+
 2024-01-25 16:40 UTC
 
 The majority of the affected workloads have been recovered. We are working on restoring the last few affected instances.
