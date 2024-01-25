@@ -1,8 +1,8 @@
 ---
 title: Virtual machine issues LON1
 date: 2024-01-25 16:00:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2024-01-25 17:08:00
 # Possible severity levels: down, disrupted, notice
 severity: notice 
 affected:
