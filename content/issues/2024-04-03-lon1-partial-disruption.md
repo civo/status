@@ -12,6 +12,14 @@ section: issue
 
 ---
 
+2024-04-03 21:35:00 UTC
+
+We are working to restore any remaining affected services onto hosts with capacity, and thank you for your patience.
+
+We will next update in max. 30 minutes
+
+---
+
 2024-04-03 21:07:00 UTC
 
 While restoring services away from the affected compute hosts we have encountered a number of other affected resources (clusters, instances, databases) that may encounter short downtime. We apologize for the inconvenience and are working on restoring full service.
