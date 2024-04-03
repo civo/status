@@ -1,7 +1,7 @@
 ---
 title: Partial disruption in LON1
 date: 2024-04-03 19:32:00
-resolved: false
+resolved: notice
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
@@ -9,6 +9,12 @@ affected:
   - Compute/LON1
     
 section: issue
+
+---
+
+2024-04-03 21:50:00 UTC
+
+We believe all affected workloads have been restored and we are continuing work on ensuring they remain active. We will update here if anything changes.
 
 ---
 
