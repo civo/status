@@ -12,9 +12,16 @@ section: issue
 
 ---
 
+2024-04-03 20:47:00 UTC
+
+We are continuing with the restoration of services onto other compute nodes away from the affected nodes.
+
+---
+
+
 2024-04-03 19:54:00 UTC
 
-The affected workloads are being moved off the affected compute node and should be available and back online.
+The affected workloads are being moved off the affected compute node and should be becoming available and back online.
 
 ---
 
