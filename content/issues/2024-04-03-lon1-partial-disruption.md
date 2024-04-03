@@ -1,10 +1,10 @@
 ---
 title: Partial disruption in LON1
 date: 2024-04-03 19:32:00
-resolved: notice
+resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted 
+severity: notice 
 affected:
   - Compute/LON1
     
