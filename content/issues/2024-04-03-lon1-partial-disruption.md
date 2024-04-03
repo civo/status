@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2024-04-03 21:07:00 UTC
+
+While restoring services away from the affected compute hosts we have encountered a number of other affected resources (clusters, instances, databases) that may encounter short downtime. We apologize for the inconvenience and are working on restoring full service.
+
+---
+
 2024-04-03 20:47:00 UTC
 
 We are continuing with the restoration of services onto other compute nodes away from the affected nodes.
