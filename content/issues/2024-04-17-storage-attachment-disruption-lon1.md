@@ -1,14 +1,21 @@
 ---
 title: Disruption in storage attachments in LON1
 date: 2024-04-17 16:50:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2024-04-17 17:00:00 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
   - Compute/LON1
   - Storage/LON1
 section: issue
+
+---
+
+2024-04-17 17:00:00
+
+We believe the issue causing storage attachments to fail on new launches and volume mounts has been resolved and will continue to monitor the functionality of the platform.
+
 
 ---
 
