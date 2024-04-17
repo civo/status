@@ -2,7 +2,7 @@
 title: Disruption in storage attachments in LON1
 date: 2024-04-17 16:50:00
 resolved: no
-resolvedWhen:
+resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
