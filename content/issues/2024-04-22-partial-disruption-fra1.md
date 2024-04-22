@@ -1,8 +1,8 @@
 ---
 title: Partial service disruption FRA1
 date: 2024-04-22 13:37:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2024-04-22 14:47:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
@@ -10,6 +10,12 @@ affected:
   - Civo API
   - Civo.com website
 section: issue
+
+---
+
+2024-04-22 14:47:00
+
+We believe the timeout issue has been resolved and we are continuing to monitor for stability.
 
 ---
 
