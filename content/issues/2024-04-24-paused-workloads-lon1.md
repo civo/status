@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-04-24 12:16:00
+
+Workloads in LON1 are now recovering, and we are continuing to try and restore any remaining affected resources.
+
+---
+
 2024-04-24 12:08:00
 
 We are working to restore all affected workloads in LON1.
