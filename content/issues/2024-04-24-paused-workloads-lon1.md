@@ -1,8 +1,8 @@
 ---
 title: Service disruption LON1
 date: 2024-04-24 12:06:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2024-04-24 12:59:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
