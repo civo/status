@@ -1,12 +1,12 @@
 ---
-title: Service disruption LON1
+title: Service disruption NYC1
 date: 2024-05-01 21:40:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: disrupted
 affected:
-  - Compute/LON1
+  - Compute/NYC1
 section: issue
 
 ---
