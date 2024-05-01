@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-01 22:15:00 UTC
+
+Affected workloads are being restored and the recovery process looks stable. We will keep this status page updated while we continue the process. We expect to post the next update within 30 minutes (22:45 UTC)
+
+---
+
 2024-05-01 22:00:00 UTC
 
 We are working on restoring the workloads affected, and will update at the latest in 20 minutes (22:20 UTC)
@@ -21,6 +27,7 @@ We are working on restoring the workloads affected, and will update at the lates
 
 The team is investigating the root cause of the disruption and is working to bring any halted workloads back online.
 
+---
 
 2024-05-01 21:40:00 UTC
 
