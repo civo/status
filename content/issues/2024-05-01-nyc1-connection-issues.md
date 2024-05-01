@@ -13,7 +13,7 @@ section: issue
 
 2024-05-01 22:45:00 UTC
 
-We are still working on restoring affected services to full functionality. While this is progressing well, we expect the process to continue to take some time. We will next update within 60 minutes.
+We are still working on restoring affected services to full functionality. While this is progressing well, we expect the process to continue to take some time. We will next update within 30 minutes (23:15 UTC).
 
 ---
 
