@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-01 22:45:00 UTC
+
+We are still working on restoring affected services to full functionality. While this is progressing well, we expect the process to continue to take some time. We will next update within 60 minutes.
+
+---
+
 2024-05-01 22:15:00 UTC
 
 Affected workloads are being restored and the recovery process looks stable. We will keep this status page updated while we continue the process. We expect to post the next update within 30 minutes (22:45 UTC)
