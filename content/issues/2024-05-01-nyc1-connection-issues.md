@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-01 23:45:00 UTC
+
+the work to recover the affected virtual machines and Kubernetes clusters is ongoing.
+
+---
+
 2024-05-01 23:15:00 UTC
 
 We are continuing with recovery of affected workloads. We are going to issue the next update within 30 minutes.
