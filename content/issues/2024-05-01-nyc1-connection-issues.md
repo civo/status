@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-01 22:00:00 UTC
+
+We are working on restoring the workloads affected, and will update at the latest in 20 minutes (22:20 UTC)
+
+---
+
 2024-05-01 21:58:00 UTC
 
 The team is investigating the root cause of the disruption and is working to bring any halted workloads back online.
