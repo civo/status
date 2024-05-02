@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-02 01:41:00 UTC
+
+The vast majority of workloads are back up and running as normal. We are working on restoring the remaining ones and monitoring the platform for stability.
+
+---
+
 2024-05-02 01:15:00 UTC
 
 work continues with restoring affected pods, VMs and other resources in NYC1. We are currently hoping to have this work finished off in the next half an hour or so.
