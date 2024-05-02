@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-02 00:45:00 UTC
+
+we are seeing the count of affected resources decrease but are still working on the wider issue. We will next update in half an hour.
+
+---
+
 2024-05-02 00:15:00 UTC
 
 Work is progressing on restoring the remaining workloads that are affected. Next update within 30 minutes
