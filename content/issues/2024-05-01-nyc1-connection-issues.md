@@ -4,10 +4,16 @@ date: 2024-05-01 21:40:00
 resolved: no
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/NYC1
 section: issue
+
+---
+
+2024-05-02 02:04:00 UTC
+
+We believe the remaining affected workloads are restored and we are continuing to monitor their stability.
 
 ---
 
