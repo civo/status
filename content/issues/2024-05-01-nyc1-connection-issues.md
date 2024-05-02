@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2024-05-02 01:15:00 UTC
+
+work continues with restoring affected pods, VMs and other resources in NYC1. We are currently hoping to have this work finished off in the next half an hour or so.
+
+---
+
 2024-05-02 00:45:00 UTC
 
 we are seeing the count of affected resources decrease but are still working on the wider issue. We will next update in half an hour.
