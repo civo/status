@@ -1,8 +1,8 @@
 ---
 title: Service disruption NYC1
 date: 2024-05-01 21:40:00
-resolved: no
-resolvedWhen: 
+resolved: yes
+resolvedWhen: 2024-05-02 02:04:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
