@@ -1,14 +1,20 @@
 ---
 title: PHX1 Resource Creation 
 date: 2024-07-15 13:00:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2024-07-15 20:40:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Compute/PHX1
   - Storage/PHX1
 section: issue
+
+---
+
+2024-07-15 20:40:00 UTC
+
+The last remaining customer resources that were affected by the intermittent issue have been returned to full functionality and we are closing this issue. If you encounter any further issues with resources in the PHX1 region in your account, please don't hesitate to get in touch.
 
 ---
 
