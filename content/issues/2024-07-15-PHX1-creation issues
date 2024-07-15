@@ -1,0 +1,15 @@
+---
+title: PHX1 Resource Creation 
+date: 2024-07-15 13:00:00
+resolved: false
+resolvedWhen: 
+severity: disrupted
+affected:
+  - Compute/PHX1
+  - Storage/PHX1
+section: issue
+
+---
+The team is looking into reports of issues affecting the creation of new resources in the region.
+
+---
