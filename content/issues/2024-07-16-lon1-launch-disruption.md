@@ -1,8 +1,8 @@
 ---
 title: LON1 Resource Creation Disruption 
 date: 2024-07-16 22:40:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2024-07-16 23:20:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -12,6 +12,11 @@ section: issue
 
 ---
 
+2024-07-16 23:20:00 UTC
+
+Resource creation in LON1 should no longer be an issue. If any instances or other resources remain pending in your account, please don't hesitate to contact us.
+
+---
 
 2024-07-16 22:40:00 UTC
 
