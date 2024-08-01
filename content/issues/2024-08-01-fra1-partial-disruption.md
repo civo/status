@@ -1,7 +1,8 @@
 ---
 title: Partial service disruption FRA1
 date: 2024-08-01 13:37:00
-resolved: no
+resolved: true
+resolvedWhen: 2024-08-01 17:00:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
