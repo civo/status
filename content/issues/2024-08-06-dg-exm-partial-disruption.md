@@ -1,7 +1,8 @@
 ---
 title: DG-EXM - Partial service disruption
 date: 2024-08-06 04:40
-resolved: false
+resolved: true
+resolvedWhen: 2024-08-06 07:05:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted 
 affected:
@@ -19,3 +20,9 @@ We are aware of a disruption in accessing resources in this region. Restarting v
 2024-08-06 06:10 UTC
 
 We have indentified the issue and applied the fix. We are monitoring all workloads and will close this issue when everything is stable.
+
+---
+
+2024-08-06 07:05 UTC
+
+We are satisfied with how everything is running in this region. Hence, we're closing this issue.
