@@ -1,6 +1,6 @@
 ---
 title: DG-EXM - Partial service disruption
-date: 2024-08-06 04:40
+date: 2024-08-06 04:40:00
 resolved: true
 resolvedWhen: 2024-08-06 07:05:00
 # Possible severity levels: down, disrupted, notice
