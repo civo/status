@@ -1,5 +1,5 @@
 ---
-title: Service disruption LON1
+title: Service disruption 
 date: 2024-10-03 05:10:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
