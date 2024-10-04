@@ -4,7 +4,7 @@ date: 2024-10-04 10:30:00
 resolved: false
 #resolvedWhen: 2024-05-02 02:04:00
 # Possible severity levels: down, disrupted, notice
-severity: notice
+severity: disrupted
 affected:
   - Compute/NYC1
 section: issue
