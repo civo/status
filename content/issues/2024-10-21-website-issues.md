@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+14:54 UTC
+
+Currently running customer workloads in all Civo regions should be unaffected while we work to restore full functionality to the Civo website and API.
+
+---
+
 2024-10-21 14:40 UTC
 
 We are aware of issues accessing the Civo.com website, dashboard, and API, with timeouts occurring for some users. We are investigating the cause.
