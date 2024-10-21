@@ -1,0 +1,17 @@
+---
+title: Civo website issues
+date: 2024-10-21 14:40:00
+resolved: no
+resolvedWhen:
+# Possible severity levels: down, disrupted, notice
+severity: disrupted
+affected:
+  - Civo.com Website
+  - Civo API
+section: issue
+
+---
+
+2024-10-21 14:40 UTC
+
+We are aware of issues accessing the Civo.com website, dashboard, and API, with timeouts occurring for some users. We are investigating the cause.
