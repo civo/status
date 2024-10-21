@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+15:15 UTC
+
+We are continuing efforts to mitigate the intermittent issue with the timeouts on accessing the Civo website and API. We will next update here in 15 minutes at latest.
+
+---
+
 14:54 UTC
 
 Currently running customer workloads in all Civo regions should be unaffected while we work to restore full functionality to the Civo website and API.
