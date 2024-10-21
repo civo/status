@@ -4,11 +4,17 @@ date: 2024-10-21 14:40:00
 resolved: no
 resolvedWhen:
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Civo.com Website
   - Civo API
 section: issue
+
+---
+
+15:30 UTC
+
+We are seeing improvement in the reachability and responsiveness of the Civo site and API and are monitoring the situation.
 
 ---
 
