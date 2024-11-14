@@ -1,7 +1,7 @@
 ---
 title: Civo website issues
 date: 2024-11-14 09:15:00
-resolved: 
+resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
 severity: notice
