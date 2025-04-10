@@ -1,13 +1,19 @@
 ---
 title: Service disruption PHX1
 date: 2025-04-10 09:03:09
-resolved: no
-# resolvedWhen: 2024-10-10 04:30:00 
+resolved: yes
+ resolvedWhen: 2025-04-10 11:25:00 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Compute/PHX1
 section: issue
+
+---
+
+2025-04-10 11:58:23 UTC
+
+All customer workloads are now online.
 
 ---
 
