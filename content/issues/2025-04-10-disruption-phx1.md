@@ -1,0 +1,16 @@
+---
+title: Service disruption PHX1
+date: 2025-04-10 09:03:09
+resolved: no
+# resolvedWhen: 2024-10-10 04:30:00 
+# Possible severity levels: down, disrupted, notice
+severity: disrupted
+affected:
+  - Compute/PHX1
+section: issue
+
+---
+
+2025-04-10 09:03:09 UTC
+
+We are facing an issue in the PHX1 region, that is affecting certain customer workloads. We working with our provider to restore services back.
