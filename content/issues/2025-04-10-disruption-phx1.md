@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2025-04-10 11:26:23 UTC
+
+The issue with the PHX1 region has been identified and resolved. Customer workloads are recovering and are coming back online.
+
+---
+
 2025-04-10 09:03:09 UTC
 
 We are facing an issue in the PHX1 region, that is affecting certain customer workloads. We are working with our provider to restore services back.
