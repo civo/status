@@ -1,7 +1,7 @@
 ---
 title: Service disruption PHX1
 date: 2025-04-10 09:03:09
-resolved: yes
+resolved: true 
 resolvedWhen: 2025-04-10 11:25:00 
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
