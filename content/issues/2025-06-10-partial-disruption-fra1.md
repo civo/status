@@ -1,8 +1,8 @@
 ---
 title: Network disruption FRA1
-date: 2025-06-10 06:50:00
+date: 2025-06-10 07:30:00
 resolved: yes
-resolvedWhen: 2025-06-10 10:00:00
+resolvedWhen: 2025-06-10 09:50:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
