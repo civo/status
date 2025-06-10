@@ -1,11 +1,11 @@
 ---
-title: Service disruption FRA1
+title: Network disruption FRA1
 date: 2025-06-10 06:50:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-  - Compute/FRA1
+  - Network/FRA1
 section: issue
 
 ---
