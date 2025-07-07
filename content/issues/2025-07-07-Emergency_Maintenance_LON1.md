@@ -1,8 +1,8 @@
 ---
 title: Emergency Maintenancein LON2
 date: 2025-07-07 22:00:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2025-07-07 22:15:00
 severity: notice
 affected:
   - Compute/LON2
