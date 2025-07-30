@@ -10,6 +10,11 @@ affected:
 section: issue
 
 ---
+2025-07-30 12:34:00 UTC
+
+All customer workload is now started. We will continue to monitor the region stability before closing the status. 
+
+---
 2025-07-30 12:19:00 UTC
 
 We have begin a controlled power on of customer workload and will provide another update in 15 minutes. 
