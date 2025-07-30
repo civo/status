@@ -12,7 +12,7 @@ section: issue
 ---
 2025-07-30 11:24:00 UTC
 
-The data center provider continue to work towards resolve the problem. We will provide a further update within the next 15 minutes.
+The data center provider continue to work towards resolving the problem. We will provide a further update within the next 15 minutes.
 
 ---
 2025-07-30 11:09:00 UTC
