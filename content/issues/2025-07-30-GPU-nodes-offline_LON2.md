@@ -10,6 +10,11 @@ affected:
 section: issue
 
 ---
+2025-07-30 12:19:00 UTC
+
+We have begin a controlled power on of customer workload and will provide another update in 15 minutes. 
+
+---
 2025-07-30 12:00:00 UTC
 
 The data center temperatures are back under control and we are working with the data center team to gradually power servers on. 
