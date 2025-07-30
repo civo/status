@@ -1,13 +1,17 @@
 ---
 title: GPU Compute instance outage LON2
 date: 2025-07-30 10:25:00
-resolved: no
-#resolvedWhen: 2025-07-07 22:15:00
-resolvedWhen: 
+resolved: yes 
+resolvedWhen: 2025-07-30 12:35:00 
 severity: disrupted 
 affected:
   - Compute/LON2
 section: issue
+
+---
+2025-07-30 12:46:00 UTC
+
+All services have been restored and are stable. The issue is now resolved.
 
 ---
 2025-07-30 12:34:00 UTC
