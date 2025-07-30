@@ -10,6 +10,11 @@ affected:
 section: issue
 
 ---
+2025-07-30 12:00:00 UTC
+
+The data center temperatures are back under control and we are working with the data center team to gradually power servers on. 
+
+---
 2025-07-30 11:42:00 UTC
 
 The data center provider continue to work towards resolving the problem. We will provide a further update within the next 15 minutes.
