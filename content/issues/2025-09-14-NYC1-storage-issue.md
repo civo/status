@@ -2,7 +2,7 @@
 title: Unexpected instance restarts
 date: 2025-08-14 12:40:00
 resolved: yes 
-resolvedWhen:   
+resolvedWhen: 2025-08-14 13:20:00
 severity: disrupted
 affected:
   - Compute/NYC1
