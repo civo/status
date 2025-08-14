@@ -1,9 +1,9 @@
 ---
 title: Unexpected instance restarts
 date: 2025-08-14 12:40:00
-resolved: no
+resolved: yes 
 resolvedWhen:   
-severity: monitoring
+severity: disrupted
 affected:
   - Compute/NYC1
 section: issue
