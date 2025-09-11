@@ -1,8 +1,8 @@
 ---
 title: Plannned Maintenancein LON1 2025-09-10
 date: 2025-09-10 21:00:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2025-09-10 23:00:00
 severity: notice
 affected:
   - Compute/LON1
