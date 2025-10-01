@@ -188,7 +188,7 @@ params:
   #
   # Default: true
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -288,7 +288,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#239DFF"
+  brand: "#000000"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
