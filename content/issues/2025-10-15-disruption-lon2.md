@@ -11,7 +11,7 @@ section: issue
 
 --- 
 
-2025-10-15 05:45:00 UTC
+2025-10-15 06:00:00 UTC
 
 The incident was identified as a cooling issue in the data center and we are working with the data center provider to restore service. This will be impacting all GPU based instances.
 
