@@ -10,6 +10,12 @@ affected:
 section: issue
 ---
 
+2025-10-15 18:26:00 UTC
+
+Engineers have identified the cause of the fault in the electrical loop and are working to get this resolved. We will provide further updates in 1 hour.
+
+---
+
 2025-10-15 16:45:00 UTC
 
 The issue has been identified as an fault in the electrical loop for the cooling system. 
