@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2025-10-15 07:42:00 UTC
+
+All customer workload is now started. We will continue to monitor the region stability before closing the status.
+
+---
+
 2025-10-15 07:10:00 UTC
 
 The data center temperatures are back under control and we are working with the data center team to gradually power servers on and monitor the situation.
