@@ -4,7 +4,7 @@ date: 2025-10-15 15:55:00
 resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disruption
+severity: down
 affected:
   - Compute/LON2
 section: issue
