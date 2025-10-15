@@ -11,6 +11,12 @@ section: issue
 
 ---
 
+2025-10-15 06:45:00 UTC
+
+The data center provider are working to restore temperatures to operational levels. We will provide a further update within the next 30 minutes.
+
+---
+
 2025-10-15 06:30:00 UTC
 
 The data center provider are working to restore temperatures to operational levels. We will provide a further update within the next 15 minutes.
