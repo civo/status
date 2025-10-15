@@ -9,6 +9,11 @@ affected:
   - Compute/LON2
 section: issue
 ---
+2025-10-15 19:48:00 UTC
+
+Engineers continue to work on reslving the cause of the electrical fault. We will provide further updates in 1 hour.
+
+---
 
 2025-10-15 18:26:00 UTC
 
