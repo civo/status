@@ -9,6 +9,12 @@ affected:
   - Compute/LON2
 section: issue
 
+---
+
+2025-10-15 06:30:00 UTC
+
+The data center provider are working to restore temperatures to operational levels. We will provide a further update within the next 15 minutes.
+
 --- 
 
 2025-10-15 06:15:00 UTC
