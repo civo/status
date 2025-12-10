@@ -1,0 +1,97 @@
+{{ partial "meta" . }}
+{{ $systemName := .Title }}
+
+{{ $allIncidents := where .Site.RegularPages "Params.section" "issue" }}
+{{ $systemIncidents := where $allIncidents "Params.affected" "intersect" (slice $systemName) }}
+
+{{ $active := where $systemIncidents "Params.resolved" "=" false }}
+{{ $isNotice := where $active "Params.severity" "=" "notice" }}
+{{ $isDisrupted := where $active "Params.severity" "=" "disrupted" }}
+{{ $isDown := where $active "Params.severity" "=" "down" }}
+
+  <body class="default list status-{{ if $isDown }}down{{ else }}{{ if $isDisrupted}}disrupted{{ else }}{{ if $isNotice }}notice{{ else }}ok{{ end }}{{ end }}{{ end }} {{ if not .Site.Params.alwaysKeepBrandColor }}change-header-color{{ end }}">
+    <header>
+      <div class="contain">
+        <a href="{{ .Site.BaseURL }}">← {{ T "goBack" }} <em>{{ .Site.Title }}</em></a>
+        <div class="padding"></div>
+        <div class="padding"></div>
+
+        <h1 class="clean">{{ $systemName }}</h1>
+
+        {{ range .Site.Params.systems }}
+          {{ if eq .name $systemName }}
+            {{ with .description }}
+              <p class="bold">{{ . }}</p>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ if $systemIncidents }}
+        <small class="faded">{{ len $systemIncidents }} {{ T "entries" }}, {{ T "newestToOldest" }}</small>
+        {{ end }}
+
+        <div class="padding"></div>
+        <hr class="clean">
+      </div>
+    </header>
+
+    <div class="contain contain--more" id="incidents">
+      {{ if not $systemIncidents }}
+        <div class="padding"></div>
+        <h3>{{ T "noIncidentsForSystem" }}</h3>
+        <p>{{ T "noIncidentsForSystemDesc" }}</p>
+        <div class="padding"></div>
+        <div class="padding"></div>
+        <div class="padding"></div>
+      {{ else }}
+        {{ $paginator := .Paginate $systemIncidents .Site.Params.incidentPostsPerPage }}
+        {{ range $paginator.Pages }}
+          {{ .Render "small" }}
+        {{ end }}
+
+        <!-- If there are more than 1 page, show pagination -->
+        {{ if gt $paginator.TotalPages 1 }}
+          <hr>
+
+          <div class="center">
+            {{ if $paginator.HasPrev }}
+              <a href="{{ $paginator.Prev.URL }}#incidents">
+                ⭠ &nbsp;
+                {{ T "prev" }}
+              </a>
+            {{ else }}
+              <span class="faded">
+                ⭠ &nbsp;
+                {{ T "prev" }}
+              </span>
+            {{ end }}
+
+
+            &nbsp; &nbsp;
+            {{ $paginator.PageNumber }}
+            /
+            {{ $paginator.TotalPages }}
+            &nbsp; &nbsp;
+
+
+            {{ if $paginator.HasNext }}
+              <a href="{{ $paginator.Next.URL }}#incidents">
+                {{ T "next" }} &nbsp;
+                ⭢
+              </a>
+            {{ else }}
+              <span class="faded">
+                {{ T "next" }} &nbsp;
+                ⭢
+              </span>
+            {{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+      <div class="padding"></div>
+    </div>
+
+    {{ partial "js" . }}
+    {{ partial "footer" . }}
+  </body>
+</html>
