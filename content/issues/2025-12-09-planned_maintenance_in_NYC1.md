@@ -9,5 +9,5 @@ affected:
 section: issue
 
 ---
-We're performing scheduled maintenance in the NYC1 region on Tuesday 09 December 2025, from 10:00 UTC to improve network resiliency. During this window services may experiance short periods of network interuption of up to a few seconds.
+We're performing scheduled maintenance in the NYC1 region on Tuesday 09 December 2025, from 10:00 UTC to improve network resiliency. During this window services may experience short periods of network interuption of up to a few seconds.
 ---

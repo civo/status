@@ -8,5 +8,5 @@ affected:
 section: issue
 
 ---
-We're performing scheduled maintenance in the LON1 region on Wednesday 10 December 2025, from 21:00 UTC to improve network resiliency. During this window services may experiance short periods of network interuption of up to a few seconds.
+We're performing scheduled maintenance in the LON1 region on Wednesday 10 December 2025, from 21:00 UTC to improve network resiliency. During this window services may experience short periods of network interuption of up to a few seconds.
 ---
