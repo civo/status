@@ -12,6 +12,9 @@
       color: #4d4d4d;
       font: 100%/1.5 "Inter", "Inter UI", BlinkMacSystemFont, -apple-system, "San Francisco Text", "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
       box-sizing: border-box;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
     a {
       text-decoration: none;
@@ -33,6 +36,7 @@
       margin: 0 auto;
       padding: 48px 24px;
       text-align: center;
+      flex: 1;
     }
     h3 {
       font-size: 20px;
@@ -44,11 +48,34 @@
     .padding {
       height: 24px;
     }
+    .footer {
+      padding: 10px;
+      background: #00FF6F;
+      color: #000;
+      text-align: center;
+    }
+    .footer a {
+      color: #000;
+    }
+    .footer p {
+      color: #000;
+      margin: 8px 0;
+    }
+    .footer small {
+      opacity: 0.8;
+    }
+    @media (prefers-color-scheme: dark) {
+      html, body { background: #181a1b; color: #ccc9c1; }
+      h3, a { color: #fafafa; }
+      p { color: #c1bcb3; }
+      .footer { background: #1b1d1e; color: #fff; }
+      .footer a, .footer p { color: #fff; }
+    }
   </style>
 </head>
 <body>
   <div class="header">
-    <a href="https://status.civo.com/">
+    <a href="/">
       <img src="/logo.svg" alt="Civo Ltd">
     </a>
   </div>
@@ -57,6 +84,11 @@
     <p>This system has no recorded incidents or maintenance windows.</p>
     <div class="padding"></div>
     <p><a href="/">← Go back to Civo Ltd</a></p>
+  </div>
+  <div class="footer">
+    <p>&copy; Civo Ltd, 2025</p>
+    <p>We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.</p>
+    <small>Powered by <a href="https://github.com/cstate/cstate"><b>cState</b></a></small>
   </div>
 </body>
 </html>
