@@ -4,7 +4,7 @@
     functions = "functions"
 
 [build.environment]
-    HUGO_VERSION = "0.48"
+    HUGO_VERSION = "0.139.0"
 
 [context.production.environment]
     HUGO_ENV = "production"
@@ -15,3 +15,9 @@
 
 [context.branch-deploy]
     command = "hugo -b $DEPLOY_PRIME_URL"
+
+# Serve a custom 404 for affected system pages (systems with no incidents)
+[[redirects]]
+    from = "/affected/*"
+    to = "/affected-404.html"
+    status = 404
