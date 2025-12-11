@@ -11,8 +11,8 @@
     {{ partial "header" . }}
 
     <div class="contain center">
-      <h3>{{ T "noIncidentsForSystem" }}</h3>
-      <p>{{ T "noIncidentsForSystemDesc" }}</p>
+      <h1 class="bold">{{ T "notFound" }}</h1>
+      <p>{{ T "notFoundText" }}</p>
       <div class="padding"></div>
       <p><a href="{{ .Site.BaseURL }}">← {{ T "goBack" }} {{ .Site.Title }}</a></p>
     </div>

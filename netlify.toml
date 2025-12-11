@@ -15,3 +15,9 @@
 
 [context.branch-deploy]
     command = "hugo -b $DEPLOY_PRIME_URL"
+
+# Serve a custom 404 for affected system pages (systems with no incidents)
+[[redirects]]
+    from = "/affected/*"
+    to = "/affected-404.html"
+    status = 404
