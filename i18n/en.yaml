@@ -2,7 +2,7 @@
 # These override the default cState translations
 
 - id: noIncidentsForSystem
-  translation: No incidents have affected this system.
+  translation: No incidents recorded for this system.
 
 - id: noIncidentsForSystemDesc
-  translation: There are no current or historical incidents recorded for this system. This typically means the system has been running without issues.
+  translation: This system has no recorded incidents or maintenance windows.
