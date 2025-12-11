@@ -1,0 +1,8 @@
+# Custom English translations for Civo status page
+# These override the default cState translations
+
+- id: noIncidentsForSystem
+  translation: No incidents have affected this system.
+
+- id: noIncidentsForSystemDesc
+  translation: There are no current or historical incidents recorded for this system. This typically means the system has been running without issues.
