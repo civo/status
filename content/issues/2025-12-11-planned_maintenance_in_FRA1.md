@@ -1,7 +1,8 @@
 ---
 title: Plannned Maintenance in FRA1 2025-12-11
 date: 2025-12-11 21:00:00
-resolved: false
+resolved: true 
+resolvedWhen: 2025-12-11 22:30:00
 severity: notice
 affected:
   - Network/FRA1
