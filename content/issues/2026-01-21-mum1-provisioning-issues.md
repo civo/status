@@ -2,7 +2,7 @@
 title: Issues provisioning instances and volumes in MUM1
 date: 2026-01-21 14:10:00
 resolved: no
-resolvedWhen: 2026-01-21 09:29:00
+resolvedWhen: 2026-01-21 14:10:00
 severity: disrupted
 affected:
   - Compute/MUM1
