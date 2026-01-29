@@ -1,7 +1,8 @@
 ---
 title: Planned Network Maintenance in LON1 2026-01-13
 date: 2026-01-13 21:00:00
-resolved: false 
+resolved: true
+resolvedWhen: 2026-01-13 22:10:00
 severity: notice
 affected:
   - Network/LON1
