@@ -2,6 +2,7 @@
 title: 
 date: 2026-02-24 15:12:00
 resolved: false
+resolvedWhen:
 severity: disrupted
 affected:
   - Compute/FRA1
