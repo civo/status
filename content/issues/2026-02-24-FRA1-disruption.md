@@ -7,7 +7,6 @@ severity: disrupted
 affected:
   - Compute/FRA1
   - Storage/FRA1
-  - Network/FRA1
 section: issue
 
 ---
