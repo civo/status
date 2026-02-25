@@ -1,5 +1,5 @@
 ---
-title:
+title: Service disruption in FRA1
 date: 2026-02-24 15:12:00
 resolved: false
 resolvedWhen:
