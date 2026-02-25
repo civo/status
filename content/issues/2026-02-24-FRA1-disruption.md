@@ -10,6 +10,11 @@ affected:
 section: issue
 
 ---
+2026-02-24 21:30:00 UTC
+
+We are continuing to monitor the FRA1 region. Affected customer instances and volumes may still be experiencing impact. We will provide further updates as more information becomes available.
+
+---
 2026-02-24 20:56:00 UTC
 
 Our investigation into the FRA1 disruption is ongoing. Affected customer instances and volumes in the FRA1 region continue to be impacted. We will provide further updates as more information becomes available.
