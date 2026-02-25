@@ -12,7 +12,7 @@ section: issue
 ---
 2026-02-25 15:41:00 UTC
 
-We continue to monitor the FRA1 region. Services are recovering and we will provide further updates as more information becomes available.
+We continue to monitor the FRA1 region. All services are online and we will provide further updates as more information becomes available.
 
 ---
 2026-02-25 01:00:00 UTC
