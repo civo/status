@@ -10,7 +10,7 @@ affected:
 section: issue
 
 ---
-2026-02-25 09:00:00 UTC
+2026-02-25 15:41:00 UTC
 
 We continue to monitor the FRA1 region. Services are recovering and we will provide further updates as more information becomes available.
 
