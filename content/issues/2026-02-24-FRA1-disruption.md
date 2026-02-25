@@ -3,11 +3,16 @@ title:
 date: 2026-02-24 15:12:00
 resolved: false
 resolvedWhen:
-severity: disrupted
+severity: monitoring
 affected:
   - Compute/FRA1
   - Storage/FRA1
 section: issue
+
+---
+2026-02-25 01:00:00 UTC
+
+We are continuing to monitor the FRA1 region. Affected customer instances and volumes may still be experiencing impact. We will provide further updates as more information becomes available.
 
 ---
 2026-02-24 20:56:00 UTC
