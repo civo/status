@@ -1,13 +1,28 @@
 ---
-title:
+title: Service disruption in FRA1
 date: 2026-02-24 15:12:00
 resolved: false
 resolvedWhen:
-severity: disrupted
+severity: monitoring
 affected:
   - Compute/FRA1
   - Storage/FRA1
 section: issue
+
+---
+2026-02-25 15:41:00 UTC
+
+We continue to monitor the FRA1 region. All services are online and we will provide further updates as more information becomes available.
+
+---
+2026-02-25 01:00:00 UTC
+
+We are continuing to monitor the FRA1 region. Affected customer instances and volumes may still be experiencing impact. We will provide further updates as more information becomes available.
+
+---
+2026-02-24 20:56:00 UTC
+
+Our investigation into the FRA1 disruption is ongoing. Affected customer instances and volumes in the FRA1 region continue to be impacted. We will provide further updates as more information becomes available.
 
 ---
 2026-02-24 18:28:00 UTC
