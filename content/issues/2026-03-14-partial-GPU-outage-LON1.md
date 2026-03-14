@@ -1,5 +1,5 @@
 ---
-title: Partial GPU outage in London
+title: Partial GPU outage in LON1
 date: 2026-03-14 08:40:00
 resolved: no
 resolvedWhen:
