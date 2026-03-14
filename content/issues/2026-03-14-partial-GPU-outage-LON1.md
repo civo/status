@@ -9,7 +9,7 @@ affected:
 section: issue
 
 ---
-2026-03-14 11:30:00 UTC
+2026-03-14 13:46:00 UTC
 
 All customer workload has been restored. We are continuing to monitor the region for stability before closing this incident.
 
