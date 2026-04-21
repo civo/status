@@ -1,12 +1,17 @@
 ---
 title: Partial GPU outage in LON1
 date: 2026-03-14 08:40:00
-resolved: no
-resolvedWhen:
+resolved: yes
+resolvedWhen: 2026-03-15 09:00:00
 severity: disrupted
 affected:
   - Compute/LON1
 section: issue
+
+---
+2026-03-15 09:00:00 UTC
+
+All services have been restored and are stable. The issue is now resolved.
 
 ---
 2026-03-14 13:46:00 UTC
