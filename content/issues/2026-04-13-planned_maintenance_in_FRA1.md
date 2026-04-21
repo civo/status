@@ -1,14 +1,19 @@
 ---
 title: Planned Maintenance in FRA1
 date: 2026-04-13 00:00:01
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2026-04-21 21:30:00
 severity: notice
 affected:
   - Compute/FRA1
   - Storage/FRA1
   - Network/FRA1
 section: issue
+
+---
+2026-04-21 21:30:00 UTC
+
+This scheduled maintenance is now complete. All FRA1 compute nodes have been successfully upgraded with no customer-impacting issues. Thank you for your patience.
 
 ---
 We will be performing scheduled maintenance in the FRA1 region starting the week of 13 April 2026, with a duration of approximately two weeks.
