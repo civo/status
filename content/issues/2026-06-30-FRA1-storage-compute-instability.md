@@ -1,13 +1,20 @@
 ---
 title: Storage and compute instability in FRA1
 date: 2026-06-30 09:45:00
-resolved: false
+resolved: true
+resolvedWhen: 2026-06-30 14:22:00
 # Possible severity levels: down, disrupted, notice
 severity: monitoring
 affected:
   - Storage/FRA1
   - Compute/FRA1
 section: issue
+
+---
+
+2026-06-30 14:22 UTC
+
+This incident is now resolved. Storage and compute services in the FRA1 region are operating normally.
 
 ---
 
