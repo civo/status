@@ -9,6 +9,14 @@ section: issue
 
 ---
 
+2026-07-01 06:07 UTC
+
+All compute and Kubernetes cluster instance services in the FRA1 region have been restored.
+
+We are aware of some residual volume-attachment issues affecting a limited number of instances, which our engineering team is actively working to resolve. We will provide a further update once these have been fully cleared.
+
+---
+
 2026-06-30 22:00 UTC
 
 We are seeing recovery across the affected compute and Kubernetes cluster instances in the FRA1 region. Our engineering team is now monitoring to confirm the issue is fully resolved.
