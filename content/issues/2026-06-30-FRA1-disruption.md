@@ -1,11 +1,20 @@
 ---
 title: Service disruption in FRA1
 date: 2026-06-30 19:57:00
-resolved: false
+resolved: true
+resolvedWhen: 2026-07-01 21:58:00
 severity: disrupted
 affected:
   - Compute/FRA1
 section: issue
+
+---
+
+2026-07-02 06:14 UTC
+
+This incident is now resolved. Service was restored at approximately 21:58 UTC on 1 July 2026. Our engineering team has monitored throughout the night and confirmed that compute and Kubernetes cluster instance services in the FRA1 region are operating normally. This incident is now closed.
+
+We apologise for the disruption and any impact to your services.
 
 ---
 
