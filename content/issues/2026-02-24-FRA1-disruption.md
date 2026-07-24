@@ -2,7 +2,7 @@
 title: Service disruption in FRA1
 date: 2026-02-24 15:12:00
 resolved: true
-resolvedWhen: 2026-03-25 10:00:00
+resolvedWhen: 2026-02-26 10:00:00
 severity: monitoring
 affected:
   - Compute/FRA1
@@ -10,7 +10,7 @@ affected:
 section: issue
 
 ---
-2026-03-25 10:00:00 UTC
+2026-02-26 10:00:00 UTC
 
 This incident is now resolved. The root causes have been identified and fixes have been deployed to the FRA1 region. All services are operating normally and we continue to monitor.
 
