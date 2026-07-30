@@ -1,13 +1,20 @@
 ---
 title: Degraded storage and network performance in LON1
 date: 2026-07-28 10:55:00
-resolved: false
+resolved: true
+resolvedWhen: 2026-07-29 07:00:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
   - Storage/LON1
   - Network/LON1
 section: issue
+
+---
+
+2026-07-29 07:00 UTC
+
+Storage and network performance in the London (LON1) region has returned to normal levels and the fix has held under monitoring. This incident is now resolved. Thank you for your patience.
 
 ---
 
