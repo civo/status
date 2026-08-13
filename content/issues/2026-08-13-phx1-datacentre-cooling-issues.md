@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2026-08-13 14:38 UTC
+
+The cooling issues at the Phoenix facility remain under investigation by the data centre team. There is still no ETA for resolution at this time. We continue to monitor the situation closely and will post further updates as more information becomes available.
+
+---
+
 2026-08-13 13:36 UTC
 
 Our data centre partner is working with their vendors to resolve the cooling issues at the Phoenix facility, but is unable to provide an ETA at this time. We continue to monitor the situation closely and will post further updates as more information becomes available.
