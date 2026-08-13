@@ -3,12 +3,18 @@ title: Data centre cooling issues in PHX1
 date: 2026-08-13 12:56:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - Compute/PHX1
   - Storage/PHX1
   - Network/PHX1
 section: issue
+
+---
+
+2026-08-13 17:54 UTC
+
+All services in the Phoenix (PHX1) region are now operating normally. Our data centre partner's remediation work is progressing well and space temperatures continue to improve. We are keeping this incident open in a monitoring state and watching the region closely until our partner confirms that temperatures and cooling infrastructure have returned to baseline. A final update will be posted here once we receive that confirmation.
 
 ---
 
