@@ -12,6 +12,12 @@ section: issue
 
 ---
 
+2026-08-13 16:17 UTC
+
+Our data centre partner has vendors on site working rapidly to restore adequate cooling at the Phoenix facility, and their technicians have activated mitigation measures to reduce rising temperatures in the affected space. There is still no ETA for full resolution. We continue to monitor the situation closely and will post further updates as more information becomes available.
+
+---
+
 2026-08-13 14:38 UTC
 
 The cooling issues at the Phoenix facility remain under investigation by the data centre team. There is still no ETA for resolution at this time. We continue to monitor the situation closely and will post further updates as more information becomes available.
