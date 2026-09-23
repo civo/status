@@ -158,13 +158,6 @@ params:
     - name: Network/FRA1
       category: CivoStack
 
-    - name: Storage/PHX1
-      category: CivoStack
-    - name: Compute/PHX1
-      category: CivoStack
-    - name: Network/PHX1
-      category: CivoStack
-
     - name: Storage/MUM1
       category: CivoStack
     - name: Compute/MUM1
