@@ -165,6 +165,13 @@ params:
     - name: Network/MUM1
       category: CivoStack
 
+    - name: Storage/JKT1
+      category: CivoStack
+    - name: Compute/JKT1
+      category: CivoStack
+    - name: Network/JKT1
+      category: CivoStack
+
   # What date format to use?
   #
   # Hugo formatting docs:
