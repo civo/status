@@ -2,7 +2,7 @@
 title: Degraded storage performance in LON1
 date: 2026-11-08 17:30:00
 resolved: true
-resolvedWhen: 2026-11-10 16:55:00
+resolvedWhen: 2026-11-09 19:30:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
@@ -12,9 +12,9 @@ section: issue
 
 ---
 
-2026-11-10 16:55 UTC
+2026-11-09 19:30 UTC
 
-The underlying network fault in the London (LON1) region has been repaired, and storage performance has remained stable under monitoring since our last update. Volume latency is at expected levels and Kubernetes control-plane requests are being served normally. This incident is now resolved. Thank you for your patience.
+The underlying fault in the London (LON1) region has been repaired, and storage performance has remained stable under monitoring since our last update. This incident is now resolved. Thank you for your patience.
 
 ---
 
