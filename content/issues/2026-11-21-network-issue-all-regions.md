@@ -16,6 +16,12 @@ section: issue
 
 ---
 
+2026-11-21 12:26 UTC
+
+**Identified** - We have now completed our investigation and are working to bring service back online. We expect to have everything back online in the next few hours.
+
+---
+
 2026-11-21 06:35 UTC
 
 **Investigating** - Our engineering teams are fully engaged and working to restore service as quickly as possible. We are currently investigating a network issue affecting all Civo regions. Customers may be unable to access the dashboard, API, or running workloads during this time.
