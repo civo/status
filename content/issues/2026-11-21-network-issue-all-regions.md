@@ -1,12 +1,18 @@
 ---
 title: Network issue affecting all regions
 date: 2026-11-21 06:35:00
-resolved: false
+resolved: true
+resolvedWhen: 2026-11-21 20:00:00
 # Possible severity levels: down, disrupted, notice
 severity: monitoring
 affected:
   - Civo API
   - Civo.com Website
+  - Network/NYC1
+  - Network/LON1
+  - Network/FRA1
+  - Network/MUM1
+  - Network/JKT1
 section: issue
 
 ---
