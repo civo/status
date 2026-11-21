@@ -3,12 +3,19 @@ title: Network issue affecting all regions
 date: 2026-11-21 06:35:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: monitoring
 affected:
   - Civo API
   - Civo.com Website
-  - Network/JKT1
 section: issue
+
+---
+
+2026-11-21 19:17 UTC
+
+**Monitoring** - Network service has now been restored in all Civo regions, including JKT1. Customers in all regions should be able to reach their workloads.
+
+We are monitoring to confirm services remain stable and will post a further update once this incident is resolved.
 
 ---
 
