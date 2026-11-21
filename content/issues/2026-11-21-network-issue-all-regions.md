@@ -4,10 +4,16 @@ date: 2026-11-21 06:35:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: monitoring
-affected:
-  - Civo API
-  - Civo.com Website
+affected: []
 section: issue
+
+---
+
+2026-11-21 19:18 UTC
+
+**Monitoring** - The Civo API and the Civo.com website, including the dashboard, are available again.
+
+We are continuing to monitor all services and will post a further update once this incident is resolved.
 
 ---
 
