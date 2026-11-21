@@ -8,6 +8,11 @@ severity: monitoring
 affected:
   - Civo API
   - Civo.com Website
+  - Network/NYC1
+  - Network/LON1
+  - Network/FRA1
+  - Network/MUM1
+  - Network/JKT1
 section: issue
 
 ---
