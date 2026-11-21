@@ -11,6 +11,26 @@ section: issue
 
 ---
 
+2026-11-21 20:00 UTC
+
+**Monitoring** - Public Cloud Service Disruption
+
+Services across our public cloud regions have now been restored following precautionary measures taken in response to exceptional suspicious network activity targeting customer environments.
+
+**Importantly, our investigation has confirmed that Civo’s underlying cloud infrastructure, management systems and core platform services were not compromised.**
+
+A small number of customer environments experienced unauthorised access through vulnerabilities in their own applications or configurations, rather than Civo's underlying platform. We have contacted those customers directly.
+
+In light of the evolving global cybersecurity threat landscape, we took a particularly cautious approach, implementing additional safeguards to prioritise the security and protection of our customers and their data.
+
+Additional security safeguards, enhanced monitoring and anomaly detection measures have been implemented, and our teams continue to monitor the environment closely.
+
+We sincerely apologise for the disruption and thank our customers for their patience and understanding.
+
+For further context on the incident and our response, please read the update from our CEO, Mark Boost: https://www.civo.com/blog/update-on-the-recent-civo-cloud-disruption
+
+---
+
 2026-11-21 19:17 UTC
 
 **Monitoring** - Network service has now been restored in all Civo regions, including JKT1. Customers in all regions should be able to reach their workloads.
