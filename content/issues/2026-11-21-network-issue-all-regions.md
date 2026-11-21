@@ -9,10 +9,16 @@ affected:
   - Civo.com Website
   - Network/NYC1
   - Network/LON1
-  - Network/FRA1
-  - Network/MUM1
   - Network/JKT1
 section: issue
+
+---
+
+2026-11-21 17:50 UTC
+
+**Update** - Network service has been restored in the FRA1 and MUM1 regions. Customers in these regions should now be able to reach their workloads.
+
+We are continuing to bring the remaining regions back online and will post further updates here as each one is restored.
 
 ---
 
