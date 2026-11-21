@@ -7,10 +7,17 @@ severity: down
 affected:
   - Civo API
   - Civo.com Website
-  - Network/NYC1
   - Network/LON1
   - Network/JKT1
 section: issue
+
+---
+
+2026-11-21 18:12 UTC
+
+**Update** - Network service has been restored in the NYC1 region, in addition to FRA1 and MUM1. Customers in these regions should now be able to reach their workloads.
+
+We are continuing to bring the remaining regions back online and will post further updates here as each one is restored.
 
 ---
 
