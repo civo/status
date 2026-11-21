@@ -16,6 +16,16 @@ section: issue
 
 ---
 
+2026-11-21 17:12 UTC
+
+**Update** - We are working to bring all Civo regions back online and expect service to be restored progressively over the next two hours. Our teams are working hard to complete this as quickly as possible, and some regions may come back sooner than others.
+
+We will continue to post regular updates here as regions are restored.
+
+Thank you for your patience while we work through this.
+
+---
+
 2026-11-21 12:26 UTC
 
 **Identified** - We have now completed our investigation and are working to bring service back online. We expect to have everything back online in the next few hours.
