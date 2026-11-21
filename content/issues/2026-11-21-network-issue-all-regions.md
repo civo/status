@@ -17,7 +17,7 @@ section: issue
 
 Services across our public cloud regions have now been restored following precautionary measures taken in response to exceptional suspicious network activity targeting customer environments.
 
-Our investigation has found no evidence to date that Civo's underlying infrastructure, management systems or core cloud platform were compromised.
+**Importantly, our investigation has confirmed that Civo’s underlying cloud infrastructure, management systems and core platform services were not compromised.**
 
 A small number of customer environments experienced unauthorised access through vulnerabilities in their own applications or configurations, rather than Civo's underlying platform. We have contacted those customers directly.
 
