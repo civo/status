@@ -33,8 +33,6 @@ Additional security safeguards, enhanced monitoring and anomaly detection measur
 
 We sincerely apologise for the disruption and thank our customers for their patience and understanding.
 
-For further context on the incident and our response, please read the update from our CEO, Mark Boost: https://www.civo.com/blog/update-on-the-recent-civo-cloud-disruption
-
 ---
 
 2026-11-21 19:17 UTC
